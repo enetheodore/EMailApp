@@ -1,0 +1,6 @@
+app.k9mail.feature.onboarding
+drawable onboarding_welcome_logo
+string onboarding_welcome_import_button
+string onboarding_welcome_message
+string onboarding_welcome_start_button
+string onboarding_welcome_title

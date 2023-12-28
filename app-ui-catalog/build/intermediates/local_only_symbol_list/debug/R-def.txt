@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+color ic_launcher_logo_main
+color ic_launcher_logo_shadow
+drawable ic_launcher_foreground
+drawable ic_launcher_monochrome
+mipmap ic_launcher
+string app_name
+style Theme.Thunderbird
+style Theme.Thunderbird.Splashscreen

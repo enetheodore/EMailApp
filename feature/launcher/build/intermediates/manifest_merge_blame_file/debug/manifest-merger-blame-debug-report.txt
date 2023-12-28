@@ -1,0 +1,18 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="app.k9mail.feature.launcher" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+6
+7    <application android:supportsRtl="true" >
+7-->C:\Users\habti\Music\AndroidProjects\k-9\feature\launcher\src\main\AndroidManifest.xml:4:5-11:19
+7-->C:\Users\habti\Music\AndroidProjects\k-9\feature\launcher\src\main\AndroidManifest.xml:4:18-44
+8        <activity
+8-->C:\Users\habti\Music\AndroidProjects\k-9\feature\launcher\src\main\AndroidManifest.xml:6:9-9:15
+9            android:name="app.k9mail.feature.launcher.FeatureLauncherActivity"
+9-->C:\Users\habti\Music\AndroidProjects\k-9\feature\launcher\src\main\AndroidManifest.xml:7:13-52
+10            android:windowSoftInputMode="adjustResize" />
+10-->C:\Users\habti\Music\AndroidProjects\k-9\feature\launcher\src\main\AndroidManifest.xml:8:13-55
+11    </application>
+12
+13</manifest>

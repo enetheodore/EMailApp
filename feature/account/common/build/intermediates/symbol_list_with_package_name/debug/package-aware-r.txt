@@ -1,0 +1,4 @@
+app.k9mail.feature.account.common
+string account_common_button_back
+string account_common_button_next
+string account_common_title

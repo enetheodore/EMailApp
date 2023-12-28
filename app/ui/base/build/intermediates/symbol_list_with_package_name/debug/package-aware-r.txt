@@ -1,0 +1,3 @@
+com.fsck.k9.ui.base
+id toolbar
+layout toolbar

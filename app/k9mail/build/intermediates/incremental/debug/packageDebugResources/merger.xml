@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res"><file name="unread_count_background" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\drawable\unread_count_background.xml" qualifiers="" type="drawable"/><file name="unread_widget_background" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\drawable\unread_widget_background.xml" qualifiers="" type="drawable"/><file name="unread_widget_icon" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\drawable\unread_widget_icon.xml" qualifiers="" type="drawable"/><file name="ic_unread_widget" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\drawable-hdpi\ic_unread_widget.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_unread_widget_selected" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\drawable-hdpi\ic_unread_widget_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_unread_widget" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\drawable-mdpi\ic_unread_widget.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_unread_widget_selected" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\drawable-mdpi\ic_unread_widget_selected.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_unread_widget" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\drawable-xhdpi\ic_unread_widget.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_unread_widget_selected" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\drawable-xhdpi\ic_unread_widget_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="activity_unread_widget_configuration" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\layout\activity_unread_widget_configuration.xml" qualifiers="" type="layout"/><file name="unread_widget_layout" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\layout\unread_widget_layout.xml" qualifiers="" type="layout"/><file name="unread_widget_option" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\menu\unread_widget_option.xml" qualifiers="" type="menu"/><file path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\values\manifest_values.xml" qualifiers=""><bool name="home_screen_widgets_enabled">true</bool></file><file path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\values\unread_widget_styles.xml" qualifiers=""><style name="UnreadWidgetContainer">
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">center</item>
+    </style><style name="UnreadWidgetTextView">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style></file><file path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\values-land\unread_widget_styles.xml" qualifiers="land"><style name="UnreadWidgetContainer">
+        <item name="android:paddingTop">2dp</item>
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@drawable/unread_widget_background</item>
+        <item name="android:gravity">bottom|center_horizontal</item>
+    </style><style name="UnreadWidgetTextView">
+        <item name="android:textSize" ns1:ignore="SpUsage">13dp</item>
+        <item name="android:background">@drawable/rounded_corners</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowRadius">2.0</item>
+        <item name="android:layout_marginBottom">0dp</item>
+    </style></file><file path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\values-sw600dp-land\unread_widget_styles.xml" qualifiers="sw600dp-land-v13"><style name="UnreadWidgetTextView">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">4.0</item>
+        <item name="android:paddingBottom">0dp</item>
+    </style></file><file path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\values-sw600dp-port\unread_widget_styles.xml" qualifiers="sw600dp-port-v13"><style name="UnreadWidgetContainer">
+        <item name="android:background">@null</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:gravity">bottom|center_horizontal</item>
+    </style><style name="UnreadWidgetTextView">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">4.0</item>
+    </style></file><file name="network_security_config" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\xml\network_security_config.xml" qualifiers="" type="xml"/><file name="unread_widget_configuration" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\xml\unread_widget_configuration.xml" qualifiers="" type="xml"/><file name="unread_widget_info" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\xml\unread_widget_info.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\debug\res"><file path="C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\debug\res\values\app_logo_colors.xml" qualifiers=""><color name="app_logo_main">#5917ff</color><color name="app_logo_highlight_light">#7a45ff</color><color name="app_logo_highlight_dark">#531ad8</color><color name="launcher_icon_background">#e3d9ff</color></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>

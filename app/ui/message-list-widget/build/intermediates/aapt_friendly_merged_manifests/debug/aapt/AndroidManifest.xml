@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.k9mail.ui.widget.list" >
+
+    <uses-sdk android:minSdkVersion="21" />
+
+    <application>
+        <service
+            android:name="app.k9mail.ui.widget.list.MessageListWidgetService"
+            android:permission="android.permission.BIND_REMOTEVIEWS" />
+    </application>
+
+</manifest>

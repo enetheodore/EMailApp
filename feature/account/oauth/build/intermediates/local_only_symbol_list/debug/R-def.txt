@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+drawable account_oauth_ic_google_logo
+string account_oauth_error_browser_not_available
+string account_oauth_error_canceled
+string account_oauth_error_failed
+string account_oauth_error_not_supported
+string account_oauth_loading_error
+string account_oauth_loading_message
+string account_oauth_sign_in_button
+string account_oauth_sign_in_description
+string account_oauth_sign_in_with_google_button

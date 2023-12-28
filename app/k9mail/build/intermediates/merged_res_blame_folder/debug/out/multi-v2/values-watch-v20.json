@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fsck.k9.k9mail-mergeDebugResources-95:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\habti\\.gradle\\caches\\transforms-3\\239a852cc65cef62b1a8a40e25f2d1ea\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    },
+                    "to": {
+                        "startLines": "12,15,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "750,909,1080",
+                        "endLines": "14,17,20",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "904,1075,1248"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\habti\\.gradle\\caches\\transforms-3\\a982dbd07764408331ab6dddd9fc7d26\\transformed\\datetimepicker-1.0.2\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,57",
+                        "endOffsets": "108,166"
+                    },
+                    "to": {
+                        "startLines": "9,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "566,692",
+                        "endColumns": "57,57",
+                        "endOffsets": "619,745"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\habti\\.gradle\\caches\\transforms-3\\c2240ba43081bce09de55649d0ac43f5\\transformed\\core-splashscreen-1.0.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,129,205,280,357,428,496,566",
+                        "endColumns": "73,75,74,76,70,67,69,67",
+                        "endOffsets": "124,200,275,352,423,491,561,629"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,129,205,280,357,428,496,624",
+                        "endColumns": "73,75,74,76,70,67,69,67",
+                        "endOffsets": "124,200,275,352,423,491,561,687"
+                    }
+                }
+            ]
+        }
+    ]
+}

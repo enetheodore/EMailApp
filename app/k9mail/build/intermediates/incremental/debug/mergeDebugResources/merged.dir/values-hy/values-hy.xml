@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="copy_address_to_clipboard">
+        <item quantity="one">Հասցէն պատճէնուած է</item>
+        <item quantity="other">Հասցէները պատճէնուած են</item>
+    </plurals>
+    <plurals name="dialog_confirm_spam_message">
+        <item quantity="one">Համոզո՞ւած էք որ ուզում էք այս հաղորդագրութիւնը լցօնի պանակ տեղափոխել։</item>
+        <item quantity="other">Համոզո՞ւած էք <ns1:g id="message_count">%1$d</ns1:g> հաղորդագրութիւնները լցօնի պանակի մէջ տեղափոխել։</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d նոր ծանուցում</item>
+    <item quantity="other">%d նոր ծանուցում</item>
+  </plurals>
+    <plurals name="notification_new_messages_title">
+        <item quantity="one"><ns1:g id="new_message_count">%d</ns1:g> նոր իմակ</item>
+        <item quantity="other"><ns1:g id="new_message_count">%d</ns1:g> նոր իմակ</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Անցնել գլխավոր էջ"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Անցնել վերև"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Այլ ընտրանքներ"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Պատրաստ է"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Տեսնել բոլորը"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Ընտրել հավելված"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ԱՆՋԱՏԵԼ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ՄԻԱՑՆԵԼ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"բացատ"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Որոնում…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Ջնջել հարցումը"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Որոնման հարցում"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Որոնել"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Ուղարկել հարցումը"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Ձայնային որոնում"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Կիսվել…"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Կիսվել <ns1:g id="APPLICATION_NAME">%s</ns1:g> հավելվածի միջոցով"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ծալել"</string>
+    <string name="about_action">Ծրագրի մասին</string>
+    <string name="account_delete_dlg_instructions_fmt">\"<ns1:g id="account">%s</ns1:g>\" հաշիւն հեռացուելու է Կ֊9 Մեյլ֊ից։</string>
+    <string name="account_notify_contacts_mail_only_label">Միայն կոնտակտները</string>
+    <string name="account_settings_action">Հաշուի կագրաւորումներ</string>
+    <string name="account_settings_always_show_cc_bcc_label">Միշտ ցուցադրել Cc/Bcc դաշտերը</string>
+    <string name="account_settings_autodownload_message_size_any">ցանկացած չափսի (առանց սահմանափակում)</string>
+    <string name="account_settings_autodownload_message_size_label">Ներբեռնել նամակները մինչեւ</string>
+    <string name="account_settings_color_label">Հաշուի գոյնը</string>
+    <string name="account_settings_color_summary">Այս հաշուի գոյնը՝ օգտագործուելու է պանակում եւ հաշիւների ցանկի մէջ</string>
+    <string name="account_settings_composition">Փոստ ուղարկելը</string>
+    <string name="account_settings_crypto_summary_on">Կապնվել %s-ին</string>
+    <string name="account_settings_default_quoted_text_shown_label">Մէջբերել նախկին իմակն պատասխանելիս</string>
+    <string name="account_settings_default_quoted_text_shown_summary">Ներառել նախկին իմակը ձեր պատասխանի մէջ</string>
+    <string name="account_settings_description_label">Հաշվի անունը</string>
+    <string name="account_settings_email_label">Ձեր էլ․ փոստի հասցէն</string>
+    <string name="account_settings_folder_display_mode_all">Բոլորը</string>
+    <string name="account_settings_folder_display_mode_first_and_second_class">1֊ին եւ 2֊րդ դասի պանակները</string>
+    <string name="account_settings_folder_display_mode_first_class">Միայն 1֊ին դասի պանակները</string>
+    <string name="account_settings_folder_display_mode_label">ցուրադրուող պանակներ</string>
+    <string name="account_settings_folder_display_mode_not_second_class">Բոլորը, բացի 2֊րդ դասի պանակներից</string>
+    <string name="account_settings_folder_notify_new_mail_mode_all">Բոլորը</string>
+    <string name="account_settings_folder_notify_new_mail_mode_first_and_second_class">1֊ին եւ 2֊րդ կարգի պանակներ</string>
+    <string name="account_settings_folder_notify_new_mail_mode_first_class">Միայն 1֊ին կարգի պանակներ</string>
+    <string name="account_settings_folder_notify_new_mail_mode_label">Ծանուցումների պանակներ</string>
+    <string name="account_settings_folder_notify_new_mail_mode_none">Ոչ մէկը</string>
+    <string name="account_settings_folder_notify_new_mail_mode_not_second_class">Բոլորը բացի 2֊րդ կարգի պանակներից</string>
+    <string name="account_settings_folder_push_mode_all">Բոլորը</string>
+    <string name="account_settings_folder_push_mode_first_and_second_class">1֊ին եւ 2֊րդ դասի պանակները</string>
+    <string name="account_settings_folder_push_mode_first_class">Միայն 1֊ին դասի պանակները</string>
+    <string name="account_settings_folder_push_mode_none">Ոչ մի</string>
+    <string name="account_settings_folder_push_mode_not_second_class">Բոլորը, բացի 2֊րդ դասի պանակներից</string>
+    <string name="account_settings_folder_sync_mode_all">Բոլորը</string>
+    <string name="account_settings_folder_sync_mode_first_and_second_class">1֊ին եւ 2֊րդ դասի պանակները</string>
+    <string name="account_settings_folder_sync_mode_first_class">Միայն 1֊ին դասի պանակները</string>
+    <string name="account_settings_folder_sync_mode_label">Պանակների թարմացում</string>
+    <string name="account_settings_folder_sync_mode_none">Ոչ մէկը</string>
+    <string name="account_settings_folder_sync_mode_not_second_class">Բոլորը բացի 2֊րդ դասի պանակներից</string>
+    <string name="account_settings_folder_target_mode_all">Բոլորը</string>
+    <string name="account_settings_folder_target_mode_first_and_second_class">1֊ին եւ 2֊րդ դասի պանակները</string>
+    <string name="account_settings_folder_target_mode_first_class">Միայն 1֊ին դասի պանակները</string>
+    <string name="account_settings_folder_target_mode_label">Տեղափոխել/պատճենել նշանակէտային պանակները</string>
+    <string name="account_settings_folder_target_mode_not_second_class">Բոլորը, բացի 2֊րդ դասի պանակներից</string>
+    <string name="account_settings_folders">Պանակներ</string>
+    <string name="account_settings_general_title">Ընդհանուր կարգաւորումներ</string>
+    <string name="account_settings_mail_check_frequency_label">Պանակները թարմացնելու յաճախականութիւն</string>
+    <string name="account_settings_mail_display_count_label">Պանակի չափսը սարքի մէջ</string>
+    <string name="account_settings_mark_message_as_read_on_view_label">Նշել որպէս ընթերցուած բացելիս</string>
+    <string name="account_settings_mark_message_as_read_on_view_summary">Նշել որպէս ընթերցուած երբ այն բացուած է դիտելու համար</string>
+    <string name="account_settings_message_age_0">այսօր</string>
+    <string name="account_settings_message_age_1">վերջին 2 օրուայ</string>
+    <string name="account_settings_message_age_14">վերջին 2 շաբաթուայ</string>
+    <string name="account_settings_message_age_1_month">վերջին ամսուայ</string>
+    <string name="account_settings_message_age_1_year">վերջին տարուայ</string>
+    <string name="account_settings_message_age_2">վերջին 3 օրուայ</string>
+    <string name="account_settings_message_age_21">վերջին 3 շաբաթուայ</string>
+    <string name="account_settings_message_age_2_months">վերջին 2 ամսուայ</string>
+    <string name="account_settings_message_age_3_months">վերջին 3 ամսուայ</string>
+    <string name="account_settings_message_age_6_months">վերջին 6 ամսուայ</string>
+    <string name="account_settings_message_age_7">վերջին շաբաթուայ</string>
+    <string name="account_settings_message_age_any">միշտ (առանց սահմանափակումների)</string>
+    <string name="account_settings_message_age_label">Որտեղից սինխրոնացնել նամակները</string>
+    <string name="account_settings_message_format_auto">Ինքնաշխատ</string>
+    <string name="account_settings_message_format_html">HTML (նկարներով եւ ձեւաւորուած)</string>
+    <string name="account_settings_message_format_label">Հաղորդագրութեան ֆորմատ</string>
+    <string name="account_settings_message_format_text">Մաքուր տեքստ (առանց նկարների կամ ձեւաւորման)</string>
+    <string name="account_settings_message_read_receipt_label">Ստացական</string>
+    <string name="account_settings_message_read_receipt_summary">Միշտ պահանջել ընթերցուած լինելու ստացականը</string>
+    <string name="account_settings_name_label">Ձեր անունը</string>
+    <string name="account_settings_no_folder_selected">Ոչ մի</string>
+    <string name="account_settings_notification_light_account_color">Հաշուի գոյնը</string>
+    <string name="account_settings_notify_label">Նոր իմակների ծանուցումներ</string>
+    <string name="account_settings_notify_self_label">Ներառել ելքային փոստը</string>
+    <string name="account_settings_notify_self_summary">Ցուցադրել ծանուցումներ ուղարկուող հաղորդագրութիւնների համար</string>
+    <string name="account_settings_notify_summary">Ծանուցել ստատուսի վահանակում, երբ իմակ է եկել</string>
+    <string name="account_settings_notify_sync_label">Սինխրոնիզացիայի ծանուցումներ</string>
+    <string name="account_settings_notify_sync_summary">Ծանուցել ստատուսի վահանակում երբ փոստարկղը ստուգւում է</string>
+    <string name="account_settings_outgoing_label">Դուրս տանող բանավար</string>
+    <string name="account_settings_push_advanced_title">Առաջադէմ</string>
+    <string name="account_settings_quote_prefix_label">Քաղուածքի տեքստի նախածանցը</string>
+    <string name="account_settings_quote_style_header">Վերնագիր (Outlook֊ի պէս)</string>
+    <string name="account_settings_quote_style_label">Պատասխանում քաղուածքի ձեւը</string>
+    <string name="account_settings_quote_style_prefix">Նախածանց (Gmail֊ի պէս)</string>
+    <string name="account_settings_reading_mail">Ընթերցում</string>
+    <string name="account_settings_remote_search_num_results_entries_all">Բոլորը</string>
+    <string name="account_settings_reply_after_quote_label">Պատասխանել մէջբերուած տեքստից յետոյ</string>
+    <string name="account_settings_reply_after_quote_summary">Նախորդ հաղորդագրութիւնն երեւալու է ձեր պատասխանի վերեւից</string>
+    <string name="account_settings_search">Փնտրել</string>
+    <string name="account_settings_searchable_all">Բոլորը</string>
+    <string name="account_settings_searchable_none">Ոչ մի</string>
+    <string name="account_settings_show_pictures_always">Բոլորից</string>
+    <string name="account_settings_show_pictures_label">Միշտ ցուցադրել նկարները</string>
+    <string name="account_settings_show_pictures_never">Ոչ</string>
+    <string name="account_settings_show_pictures_only_from_contacts">Կոնտակտներից</string>
+    <string name="account_settings_signature_label">Ստորագրութիւն</string>
+    <string name="account_settings_strip_signature_label">Պատասխանելիս հանել ստորագրութիւնները</string>
+    <string name="account_settings_strip_signature_summary">Ստորագրութիւններն հեռացուելու են մէջբերուած նամակներից</string>
+    <string name="account_settings_sync">Ներբեռնում</string>
+    <string name="account_settings_sync_remote_deletetions_label">Սինխրոնացնել սերուերում հեռացածները</string>
+    <string name="account_settings_sync_remote_deletetions_summary">Ջնջել նամակները, եթէ սերուերից ջնջուել են։</string>
+    <string name="account_settings_title_fmt">Հաշուի կարգաւորումներ</string>
+    <string name="account_setup_account_type_imap_action">IMAP</string>
+    <string name="account_setup_account_type_instructions">Ի՞նչ տեսակի հաշիւ է</string>
+    <string name="account_setup_account_type_pop_action">POP3</string>
+    <string name="account_setup_account_type_title">Հաշուի տեսակը</string>
+    <string name="account_setup_auth_type_encrypted_password">Կրիպտաւորուած ծածկագիր</string>
+    <string name="account_setup_auth_type_insecure_password">Ծածկագիր, որ ոչ անվտանգ է փոխանցւում</string>
+    <string name="account_setup_auth_type_normal_password">Նորմալ ծածկագիր</string>
+    <string name="account_setup_auth_type_tls_client_certificate">Կլիենտի արտօնագիր</string>
+    <string name="account_setup_bad_uri">Անուաւեր կարգաւորում՝ <ns1:g id="err_mess">%s</ns1:g></string>
+    <string name="account_setup_basics_email_hint">Էլ․ փոստի հասցէ</string>
+    <string name="account_setup_basics_manual_setup_action">Ձեռադիր կարգաւորումներ</string>
+    <string name="account_setup_basics_password_hint">Ծածկագիր</string>
+    <string name="account_setup_basics_title">Աւելացնել նոր հաշիւ</string>
+    <string name="account_setup_check_settings_authenticate">Վաւերացում\u2026</string>
+    <string name="account_setup_check_settings_canceling_msg">Չեղարկւում է\u2026</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Ստուգւում են մուտքային սպասարկչի կարգաւորումները\u2026</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">Ստուգւում են ելքային սպասարկչի կարգաւորումները\u2026</string>
+    <string name="account_setup_check_settings_fetch">Բեռնւում են հաշուի կարգաւորումները\u2026</string>
+    <string name="account_setup_check_settings_retr_info_msg">Ներբեռնւում է հաշուի տեղեկատւութիւնը\u2026</string>
+    <string name="account_setup_check_settings_title"/>
+    <string name="account_setup_expunge_policy_immediately">Անմիջապէս</string>
+    <string name="account_setup_expunge_policy_label">Ջնջել հեռացուած հաղորդագրութիւնները սպասարկչից</string>
+    <string name="account_setup_expunge_policy_manual">Ձեռադիր</string>
+    <string name="account_setup_failed_dlg_auth_message_fmt">Օգտանունը կամ ծածկագիրը սխալ են։\n(<ns1:g id="error">%s</ns1:g>)</string>
+    <string name="account_setup_failed_dlg_certificate_message_fmt">Սպասարկիչը ներկայացրել է անուաւեր SSL արտօնագիր։ Երբեմն դա պայմանաւորուած է սպասարկչի սխալ կարգաւորումներով։ Երբեմն էլ նրանով, որ որեւէ մէկը փորձում է գրոհել ձեր փոստի սպասարկիչը։ Եթէ համոզուած չէք, թէ ինչ է տեղի ունենում, կտացրէք «Մերժել» եւ կապուէք ձեր սպասարկիչը սպասարկողների հետ։\n\n(<ns1:g id="error">%s</ns1:g>)</string>
+    <string name="account_setup_failed_dlg_continue_action">Շարունակել</string>
+    <string name="account_setup_failed_dlg_edit_details_action">Խմբագրել մանրամասները</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">Հնարաւոր չէ կպնել սպասարկչին։\n(<ns1:g id="error">%s</ns1:g>)</string>
+    <string name="account_setup_failed_dlg_title">Կարգաւորման ծրագիրը չի կարողանում աւարտուել</string>
+    <string name="account_setup_incoming_auth_type_label">Վաւերացում</string>
+    <string name="account_setup_incoming_autodetect_namespace_label">Ինքնաշխատ ճանաչել IMAP տիրոյթը</string>
+    <string name="account_setup_incoming_client_certificate_label">Կլիենտի արտօնագիր</string>
+    <string name="account_setup_incoming_delete_policy_delete_label">Հեռացնել սպասարկչից</string>
+    <string name="account_setup_incoming_delete_policy_label">Հաղորդագրութիւն հեռացնելիս</string>
+    <string name="account_setup_incoming_delete_policy_markread_label">Նշել որպէս ընթերցուած սպասարկչում</string>
+    <string name="account_setup_incoming_delete_policy_never_label">Չհեռացնել սպասարկչից</string>
+    <string name="account_setup_incoming_imap_server_label">IMAP սպասարկիչ</string>
+    <string name="account_setup_incoming_invalid_setting_combo_notice">\"<ns1:g id="setting_1_label">%1$s</ns1:g> = <ns1:g id="setting_1_value">%2$s</ns1:g>\" վաւերական չէ \"<ns1:g id="setting_2_label">%3$s</ns1:g> = <ns1:g id="setting_2_value">%4$s</ns1:g>\"֊ի հետ</string>
+    <string name="account_setup_incoming_password_label">Ծածկագիր</string>
+    <string name="account_setup_incoming_pop_server_label">POP3 սպասարկիչ</string>
+    <string name="account_setup_incoming_port_label">Պորտ</string>
+    <string name="account_setup_incoming_security_label">Անվտանգութիւն</string>
+    <string name="account_setup_incoming_security_none_label">Ոչ մի</string>
+    <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
+    <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
+    <string name="account_setup_incoming_subscribed_folders_only_label">Ցուցադրել միայն բաժանորդագրուած պանակները</string>
+    <string name="account_setup_incoming_title">Մուտքային սպասարկչի կարգաւորումներ</string>
+    <string name="account_setup_incoming_username_label">Օգտանուն</string>
+    <string name="account_setup_options_mail_check_frequency_12hour">12 ժամը մէկ</string>
+    <string name="account_setup_options_mail_check_frequency_15min">15 րոպէն մէկ</string>
+    <string name="account_setup_options_mail_check_frequency_1hour">Ժամը մէկ</string>
+    <string name="account_setup_options_mail_check_frequency_24hour">24 ժամը մէկ</string>
+    <string name="account_setup_options_mail_check_frequency_2hour">2 ժամը մէկ</string>
+    <string name="account_setup_options_mail_check_frequency_30min">30 րոպէն մէկ</string>
+    <string name="account_setup_options_mail_check_frequency_3hour">3 ժամը մէկ</string>
+    <string name="account_setup_options_mail_check_frequency_6hour">6 ժամը մէկ</string>
+    <string name="account_setup_options_mail_check_frequency_label">Պանակ թարմացնելու յաճախականութիւն</string>
+    <string name="account_setup_options_mail_check_frequency_never">Երբեք</string>
+    <string name="account_setup_options_mail_display_count_10">10 իմակ</string>
+    <string name="account_setup_options_mail_display_count_100">100 իմակ</string>
+    <string name="account_setup_options_mail_display_count_1000">1000 իմակ</string>
+    <string name="account_setup_options_mail_display_count_10000">10000 իմակ</string>
+    <string name="account_setup_options_mail_display_count_25">25 իմակ</string>
+    <string name="account_setup_options_mail_display_count_250">250 իմակ</string>
+    <string name="account_setup_options_mail_display_count_2500">2500 իմակ</string>
+    <string name="account_setup_options_mail_display_count_50">50 իմակ</string>
+    <string name="account_setup_options_mail_display_count_500">500 իմակ</string>
+    <string name="account_setup_options_mail_display_count_5000">5000 իմակ</string>
+    <string name="account_setup_options_mail_display_count_all">բոլոր իմակները</string>
+    <string name="account_setup_options_mail_display_count_label">Ցուցադրուող իմակների քանակը</string>
+    <string name="account_setup_outgoing_authentication_label">Վաւերացում</string>
+    <string name="account_setup_outgoing_invalid_setting_combo_notice">\"<ns1:g id="setting_1_label">%1$s</ns1:g> = <ns1:g id="setting_1_value">%2$s</ns1:g>\" վաւերական չէ \"<ns1:g id="setting_2_label">%3$s</ns1:g> = <ns1:g id="setting_2_value">%4$s</ns1:g>\"֊ի հետ</string>
+    <string name="account_setup_outgoing_password_label">Ծածկագիր</string>
+    <string name="account_setup_outgoing_port_label">Պորտ</string>
+    <string name="account_setup_outgoing_require_login_label">Պահանջել մուտք գործելը։</string>
+    <string name="account_setup_outgoing_security_label">Անվտանգութիւն</string>
+    <string name="account_setup_outgoing_smtp_server_label">SMTP սպասարկիչ</string>
+    <string name="account_setup_outgoing_title">Ելքային սպասարկչի կարգաւորումները</string>
+    <string name="account_setup_outgoing_username_label">Օգտանուն</string>
+    <string name="accounts_title">Հաշիւներ</string>
+    <string name="actionbar_selected"><ns1:g id="selection_count">%d</ns1:g> ընտրուած է</string>
+    <string name="add_account_action">Աւելացնել հաշիւ</string>
+    <string name="add_attachment_action">Կցել նիշք</string>
+    <string name="address_type_mobile">Դիւրակիր</string>
+    <string name="address_type_other">Այլ</string>
+    <string name="advanced">Առաջադէմ</string>
+    <string name="app_name">K-9 Նամակ</string>
+    <string name="archive_action">Արխիւացնել</string>
+    <string name="archive_folder_label">Արխիւի պանակ</string>
+    <string name="background_ops_always">Միշտ</string>
+    <string name="background_ops_never">Երբեք</string>
+    <string name="bottomsheet_action_collapse">Ծալել ներքևի էկրանը</string>
+    <string name="bottomsheet_action_expand">Ծավալել ներքևի էկրանը</string>
+    <string name="bottomsheet_action_expand_halfway">Ծավալել կիսով չափ</string>
+    <string name="bottomsheet_drag_handle_clicked">Կրկնակի հպում տեղափոխման նշիչին</string>
+    <string name="bottomsheet_drag_handle_content_description">Տեղափոխման նշիչ</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Պատասխանել"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Տեսազանգ"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Մերժել"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Ավարտել"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Մուտքային զանգ"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Ընթացիկ զանգ"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Մուտքային զանգի զտում"</string>
+    <string name="cancel_action">Չեղարկել</string>
+    <string name="character_counter_content_description">Մուտքագրված նիշեր՝ %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">Նիշերի առավելագույն քանակը գերազանցվել է (%1$d/%2$d)</string>
+    <string name="check_mail_action">Ստուգել էլ․ փոստը</string>
+    <string name="choose_account_title">Ընտրեք հաշիվ</string>
+    <string name="choose_folder_title">Ընտրել պանակ</string>
+    <string name="clear_text_end_icon_content_description">Ջնջել տեքստը</string>
+    <string name="clipboard_label_email_address">Էլ․ փոստի հասցէ</string>
+    <string msgid="406453423630273620" name="close_drawer">"Փակել նավիգացիայի ընտրացանկը"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Փակել թերթը"</string>
+    <string msgid="1248663997452044787" name="color_picker_default_title">"Ընտրեք գույնը"</string>
+    <string msgid="2883438431173736180" name="color_swatch_description">"Գույնը <ns1:g id="COLOR_INDEX">%1$d</ns1:g>"</string>
+    <string msgid="5020921249944943124" name="color_swatch_description_selected">"Ընտրվել է <ns1:g id="COLOR_INDEX">%1$d</ns1:g> գույնը"</string>
+    <string name="compose_action">Գրել</string>
+    <string name="compose_error_incomplete_recipient">Ստացողի դաշտը պարունակում է անաւարտ տուեալներ։</string>
+    <string name="compose_title_compose">Գրել</string>
+    <string name="compose_title_forward">Փոխանցել</string>
+    <string name="compose_title_forward_as_attachment">Փոխանցել ինչպես կցորդ</string>
+    <string name="compose_title_reply">Պատասխանել</string>
+    <string name="compose_title_reply_all">Պատասխանել բոլորին</string>
+    <string msgid="5912733858573823945" name="confirm_device_credential_password">"Օգտագործել գաղտնաբառ"</string>
+    <string name="confirm_discard_draft_message">Համոզո՞ւած էք որ ուզում էք նետել այս իմակը։</string>
+    <string name="confirm_discard_draft_message_title">Նետե՞լ իմակը։</string>
+    <string msgid="6083905920877235314" name="copy">"Պատճենել"</string>
+    <string name="copy_action">Պատճէնել</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Հղումը պատճենվեց սեղմատախտակին"</string>
+    <string name="crypto_info_ok">Լաւ</string>
+    <string name="date_picker_next_month_button">Հաջորդ ամիս</string>
+    <string name="date_picker_prev_month_button">Նախորդ ամիս</string>
+    <string name="datetime_EMMMMdy">y թ. MMMM d, EEE</string>
+    <string name="datetime_EMMMd">d MMM, EEE</string>
+    <string name="datetime_Hm">H:mm</string>
+    <string name="datetime_MMMMy">yթ․ MMMM</string>
+    <string name="datetime_hm">h:mm a</string>
+    <string name="debug_enable_debug_logging_summary">Պահել յաւելեալ ախտորոշման տեղեկատւութիւն</string>
+    <string name="debug_enable_debug_logging_title">Գրել վրիպազերծման տեղեկատւութիւնը մատեանում</string>
+    <string name="debug_enable_sensitive_logging_summary">Կարող է ցուցադրել ծածկագրերը մատեանում։</string>
+    <string name="debug_enable_sensitive_logging_title">Պահել զգայուն տեղեկատւութիւնը</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Սխալ ներածում"</string>
+    <string msgid="4776854077120974966" name="default_error_msg">"Անհայտ սխալ"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Ելնող պատուհան"</string>
+    <string name="default_signature">-- \nՈւղարկուած է իմ Անդրոիդ սարքից Կ֊9 Մեյլ֊ով։ Ներեցէք հակիրճ լինելու համար։</string>
+    <string name="delete_action">Հեռացնել</string>
+    <string name="dialog_confirm_delete_cancel_button">Ոչ</string>
+    <string name="dialog_confirm_mark_all_as_read_cancel_button">Ոչ</string>
+    <string name="dialog_confirm_spam_cancel_button">Ոչ</string>
+    <string name="dialog_confirm_spam_title">Հաստատել տեղափոխումը՝ լցօնների պանակ</string>
+    <string name="discard_action">Նետել</string>
+    <string name="done_action">Աւարտել</string>
+    <string name="drafts_folder_label">Սեւագրերի պանակ</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Իջնող ցանկ"</string>
+    <string name="edit_identity_email_label">Էլ․ փոստի հասցէ</string>
+    <string name="edit_identity_name_label">Ձեր անունը</string>
+    <string name="edit_identity_save">Պահել</string>
+    <string name="edit_identity_signature_label">Ստորագրութիւն</string>
+    <string name="empty_subject">Վերնագիրը նշուած չէ․ սեղմէք եւս մի անգամ ուղարկելու համար</string>
+    <string name="empty_trash_action">Մաքրել աղբը</string>
+    <string name="error_contact_address_not_found">Այս անձի էլ․ փոստի հասցէն գտնուած չէ։</string>
+    <string name="error_icon_content_description">Սխալ</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Լրացուցիչ"</string>
+    <string name="exposed_dropdown_menu_content_description">Ցույց տալ իջնող ընտրացանկը</string>
+    <string name="expunge_action">Վերացնել</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Պատճենել հղումը"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Բացել դիտարկիչում"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Կիսվել հղումով"</string>
+    <string name="filter_folders_action">Գտնել պանակը</string>
+    <string msgid="1072308044213194243" name="fingerprint_dialog_touch_sensor">"Հպեք մատնահետքի սկաներին"</string>
+    <string msgid="8216738333501875566" name="fingerprint_error_hw_not_available">"Մատնահետքերի սարքն անհասանելի է:"</string>
+    <string msgid="6306988885793029438" name="fingerprint_error_hw_not_present">"Սարքը չունի մատնահետքերի սկաներ"</string>
+    <string msgid="7291787166416782245" name="fingerprint_error_lockout">"Չափից շատ փորձեր եք կատարել: Փորձեք ավելի ուշ:"</string>
+    <string msgid="7520712796891883488" name="fingerprint_error_no_fingerprints">"Գրանցված մատնահետքեր չկան:"</string>
+    <string msgid="7627716295344353987" name="fingerprint_error_user_canceled">"Մատնահետքով նույնականացման գործողությունը չեղարկվել է օգտատիրոջ կողմից:"</string>
+    <string msgid="3873359464293253009" name="fingerprint_not_recognized">"Չհաջողվեց ճանաչել"</string>
+    <string name="flag_action">Աւելացնել աստղ</string>
+    <string name="folder_settings_clear_local_folder_action">Մաքրել լոկալ հաղորդագրութիւնները</string>
+    <string name="folder_settings_folder_display_mode_first_class">1ին Դաս</string>
+    <string name="folder_settings_folder_display_mode_normal">Առանց Դասի</string>
+    <string name="folder_settings_folder_display_mode_second_class">2րդ Դաս</string>
+    <string name="folder_settings_folder_notify_mode_first_class">1ին Դաս</string>
+    <string name="folder_settings_folder_notify_mode_normal">Առանց Դասի</string>
+    <string name="folder_settings_folder_notify_mode_second_class">2րդ Դաս</string>
+    <string name="folder_settings_folder_push_mode_first_class">1ին Դաս</string>
+    <string name="folder_settings_folder_push_mode_normal">Առանց Դասի</string>
+    <string name="folder_settings_folder_push_mode_second_class">2րդ Դաս</string>
+    <string name="folder_settings_folder_sync_mode_first_class">1ին Դաս</string>
+    <string name="folder_settings_folder_sync_mode_normal">Ոչ մի</string>
+    <string name="folder_settings_folder_sync_mode_second_class">2րդ Դաս</string>
+    <string name="folder_settings_title">Պանակի կարգաւորումներ</string>
+    <string name="font_size_message_list_subject">Վերնագիր</string>
+    <string name="font_size_message_view_account">Հաշվի անունը</string>
+    <string name="font_size_message_view_subject">Վերնագիր</string>
+    <string name="forward_action">Փոխանցել</string>
+    <string name="forward_as_attachment_action">Փոխանցել ինչպես կցորդ</string>
+    <string name="from_same_sender">Աւելին այս հեղինակից</string>
+    <string name="general_no_sender">Առանց ուղարկող</string>
+    <string name="general_no_subject">(անվերնագիր)</string>
+    <string name="general_settings_swipe_action_archive">Արխիւ</string>
+    <string name="general_settings_swipe_action_delete">Հեռացնել</string>
+    <string name="general_settings_swipe_action_move">Տեղափոխել</string>
+    <string name="general_settings_swipe_action_none">Ոչ մի</string>
+    <string name="general_settings_swipe_action_spam">Լցօն</string>
+    <string name="general_settings_title">Ընդհանուր կարգաւորումներ</string>
+    <string msgid="3791785319221634505" name="generic_error_no_device_credential">"Ավելացրեք PIN կոդ, նախշ կամ գաղտնաբառ։"</string>
+    <string msgid="1807436368654974044" name="generic_error_no_keyguard">"Այս սարքը չի աջակցում PIN կոդ, նախշ կամ գաղտնաբառ։"</string>
+    <string msgid="7309881387583143581" name="generic_error_user_canceled">"Օգտատերը չեղարկել է նույնականացումը։"</string>
+    <string name="global_settings_confirm_action_delete">Հեռացնել</string>
+    <string name="global_settings_confirm_action_delete_notif">Հեռացնել (ծանուցումներից)</string>
+    <string name="global_settings_confirm_action_delete_starred">Հեռացնել ատղերով նշածները</string>
+    <string name="global_settings_confirm_action_spam">Լցօն</string>
+    <string name="global_settings_confirm_actions_summary">Ցուցադրել հարցում ամէն անգամ երբ կատարում էք ընտրուած գործողութիւնները</string>
+    <string name="global_settings_confirm_actions_title">Հաստատել գործողութիւնները</string>
+    <string name="global_settings_confirm_menu_discard">Նետել հաղորդագրութիւնը</string>
+    <string name="global_settings_flag_label">Ցուցադրել աստղերը</string>
+    <string name="global_settings_flag_summary">Աստղերով նշում են կարեւոր հաղորդագրութիւնները</string>
+    <string name="global_settings_lock_screen_notification_visibility_app_name">Ծրագրի անունը</string>
+    <string name="global_settings_lock_screen_notification_visibility_everything">Նոյնն ինչպէս երբ էկրանն արգելափակուած է</string>
+    <string name="global_settings_lock_screen_notification_visibility_nothing">Չծանուցել երբ արգելափակուած է</string>
+    <string name="global_settings_lock_screen_notification_visibility_senders">Նամակների քանակն ու ուղարկողները</string>
+    <string name="global_settings_lock_screen_notification_visibility_title">Արգելափակուած էկրանի ծանուցումներ</string>
+    <string name="global_settings_messageview_autofit_width_label">Աւտոմատ տեղաւորել հաղորդագրութիւնները</string>
+    <string name="global_settings_messageview_autofit_width_summary">Սեղմել հաղորդագրութիւններն այնպէս որ տեղաւորուեն էկրանին</string>
+    <string name="global_settings_messageview_fixedwidth_label">Միալայնք տառատեսակներ</string>
+    <string name="global_settings_messageview_fixedwidth_summary">Ցուցադրել միայն տեքստային հաղորդագրութիւնները միալայնք տառատեսակով</string>
+    <string name="global_settings_notification_quick_delete_always">Միշտ</string>
+    <string name="global_settings_notification_quick_delete_never">Երբեք</string>
+    <string name="global_settings_notification_quick_delete_title">Ցուցադրել «Հեռացնել» կոճակը</string>
+    <string name="global_settings_notification_quick_delete_when_single_msg">Մի նամակի ծանուցման համար</string>
+    <string name="global_settings_preview_lines_label">Նախադիտել տողերը</string>
+    <string name="global_settings_privacy_hide_useragent_detail">Հեռացնել Կ֊9 User-Agent նամակի խորագրերից</string>
+    <string name="global_settings_registered_name_color_changed">Գունաւորել հասցէագրքի անունները</string>
+    <string name="global_settings_registered_name_color_label">Գունաւորել կոնտակտները</string>
+    <string name="global_settings_sender_above_subject_label">Թղթակցի անունը վերնագրի վերեւից</string>
+    <string name="global_settings_sender_above_subject_summary">Ցուցադրել թղթակիցների անունները վերնագրի տողից վերեւ, ոչ թէ դրանից ներքեւ</string>
+    <string name="global_settings_show_contact_name_label">Ցուցադրել կոնտակտների անունները</string>
+    <string name="global_settings_show_contact_name_summary">Օգտագործել ստացողների անունները Հասցէագրքից երբ հնարաւոր է</string>
+    <string name="global_settings_show_correspondent_names_label">Ցուցադրել թղթակիցների անունները</string>
+    <string name="global_settings_show_correspondent_names_summary">Ցուցադրել թղթակիցների անունները, ոչ թէ իրենց էլ․ փոստի հասցէները։</string>
+    <string name="global_settings_splitview_always">Միշտ</string>
+    <string name="global_settings_splitview_never">Երբեք</string>
+    <string name="hour_picker_description">Ժամերի ընտրություն թվատախտակից</string>
+    <string name="icon_content_description">Երկխոսության պատուհանի պատկերակ</string>
+    <string name="idle_refresh_period_12min">12 րոպէն մէկ</string>
+    <string name="idle_refresh_period_24min">24 րոպէն մէկ</string>
+    <string name="idle_refresh_period_2min">2 րոպէն մէկ</string>
+    <string name="idle_refresh_period_36min">36 րոպէն մէկ</string>
+    <string name="idle_refresh_period_3min">3 րոպէն մէկ</string>
+    <string name="idle_refresh_period_48min">48 րոպէն մէկ</string>
+    <string name="idle_refresh_period_60min">60 րոպէն մէկ</string>
+    <string name="idle_refresh_period_6min">6 րոպէն մէկ</string>
+    <string name="idle_refresh_period_label">Թարմացնել IDLE կապակցումը</string>
+    <string msgid="6827826412747255547" name="in_progress">"Ընթացքում է"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Մասնակի նշված"</string>
+    <string name="item_view_role_description">Ներդիր</string>
+    <string name="mark_as_read_action">Նշել որպէս ընթերցուած</string>
+    <string name="mark_as_unread_action">Նշել չընթերցուածները</string>
+    <string name="material_clock_toggle_content_description">Ընտրել AM կամ PM</string>
+    <string name="material_hour_24h_suffix">%1$s ժամ</string>
+    <string name="material_hour_selection">Ընտրել ժամը</string>
+    <string name="material_hour_suffix">Ժամը %1$s է</string>
+    <string name="material_minute_selection">Ընտրեք րոպեն</string>
+    <string name="material_minute_suffix">%1$s րոպե</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Ժամը մուտքագրելու համար միացրեք ժամացույցի ռեժիմը:</string>
+    <string name="material_timepicker_hour">Ժամ</string>
+    <string name="material_timepicker_minute">Րոպե</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Ժամանակի ընտրություն</string>
+    <string name="material_timepicker_text_input_mode_description">Ժամը մուտքագրելու համար միացրեք տեքստի մուտքագրման ռեժիմը:</string>
+    <string name="message_compose_attachments_skipped_toast">Որոշ կից նիշքերը չեն կարող փոխանցուել, քանի որ ներբեռնուած չեն։</string>
+    <string name="message_compose_content_hint">Հաղորդագրութեան տեքստը</string>
+    <string name="message_compose_description_delete_quoted_text">Հեռացնել մէջբերուած տեքստը</string>
+    <string name="message_compose_description_edit_quoted_text">Խմբագրել մէջբերումը</string>
+    <string name="message_compose_error_no_recipients">Անհրաժեշտ է աւելացնել գոնէ մէկ ստացող։</string>
+    <string name="message_compose_quote_header_cc">Cc՝</string>
+    <string name="message_compose_quote_header_from">Ումից՝</string>
+    <string name="message_compose_quote_header_send_date">Ուղարկուած՝</string>
+    <string name="message_compose_quote_header_separator">-------- Նախորդ հաղորդագրութիւնը --------</string>
+    <string name="message_compose_quote_header_subject">Վերնագիր՝</string>
+    <string name="message_compose_quote_header_to">Ում՝</string>
+    <string name="message_compose_reply_header_fmt"><ns1:g id="sender">%s</ns1:g> գրել է՝</string>
+    <string name="message_compose_reply_header_fmt_with_date"><ns1:g id="sent_date">%1$s</ns1:g>֊ին, <ns1:g id="sender">%2$s</ns1:g> գրել է՝</string>
+    <string name="message_compose_signature_hint">Ստորագրութիւն</string>
+    <string name="message_compose_subject_hint">Վերնագիր</string>
+    <string name="message_discarded_toast">Հաղորդագրութիւնը պահուած չէ</string>
+    <string name="message_list_load_more_messages_action">Բեռնել աւել հաղորդագրութիւններ</string>
+    <string name="message_saved_toast">Հաղորդագրութիւնը պահուած է որպէս սեւագիր</string>
+    <string name="message_to_fmt">Ում՝ <ns1:g id="counterParty">%s</ns1:g></string>
+    <string name="message_to_label">Ում՝</string>
+    <string name="message_view_cc_label">Cc՝</string>
+    <string name="message_view_download_remainder">Ներբեռնել ամբողջ նամակը</string>
+    <string name="message_view_no_viewer">Հնարաւոր չէ գտնել <ns1:g id="mimetype">%s</ns1:g>֊ի համար դիտարկիչ։</string>
+    <string name="message_view_theme_action_dark">Անցնել մուգ թեմայի</string>
+    <string name="message_view_theme_action_light">Անցնել բաց թեմայի</string>
+    <string name="minute_picker_description">Րոպեների ընտրություն թվատախտակից</string>
+    <string name="move_action">Տեղափոխել</string>
+    <string name="move_copy_cannot_copy_unsynced_message">հնարաւոր չէ պատճէնել կամ տեղափոխել իմակը, որը սինխրոնացուած չէ սպասարկչի հետ</string>
+    <string name="mtrl_badge_numberless_content_description">Նոր ծանուցում</string>
+    <string name="mtrl_chip_close_icon_content_description">Հեռացնել (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Ավելի քան %1$d նոր ծանուցում</string>
+    <string name="mtrl_picker_a11y_next_month">Անցնել հաջորդ ամիս</string>
+    <string name="mtrl_picker_a11y_prev_month">Անցնել նախորդ ամիս</string>
+    <string name="mtrl_picker_announce_current_selection">Ներկայիս ընտրությունը՝ %1$s</string>
+    <string name="mtrl_picker_cancel">Չեղարկել</string>
+    <string name="mtrl_picker_confirm">Եղավ</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Ընտրեք ամսաթիվը</string>
+    <string name="mtrl_picker_date_header_unselected">Ընտրված ամսաթիվը</string>
+    <string name="mtrl_picker_day_of_week_column_header">Օրերի սյունակ՝ %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ձևաչափը սխալ է։</string>
+    <string name="mtrl_picker_invalid_format_example">Օրինակ՝ %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Օգտագործեք՝ %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ընդգրկույթն անվավեր է:</string>
+    <string name="mtrl_picker_navigate_to_year_description">Անցնել %1$s թվական</string>
+    <string name="mtrl_picker_out_of_range">Ընդգրկույթից դուրս է՝ %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Մեկնարկի ամսաթիվը – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Ավարտի ամսաթիվը</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Ընտրեք ընդգրկույթը</string>
+    <string name="mtrl_picker_range_header_unselected">Մեկնարկի ամսաթիվը – Ավարտի ամսաթիվը</string>
+    <string name="mtrl_picker_save">Պահել</string>
+    <string name="mtrl_picker_text_input_date_hint">Ամսաթիվ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Ավարտի ամսաթիվը</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Մեկնարկի ամսաթիվը</string>
+    <string name="mtrl_picker_text_input_day_abbr">օ</string>
+    <string name="mtrl_picker_text_input_month_abbr">ա</string>
+    <string name="mtrl_picker_text_input_year_abbr">տ</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Անցնել օրացույցի մուտքագրման ռեժիմ</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Հպեք՝ օրվա ընտությանն անցնելու համար</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Անցնել տեքստի մուտքագրման ռեժիմին</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Հպեք՝ տարեթվի ընտությանն անցնելու համար</string>
+    <string name="mtrl_timepicker_cancel">Չեղարկել</string>
+    <string name="mtrl_timepicker_confirm">Եղավ</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Անցնել վերև"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Բացել նավարկման դարակը"</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Նավիգացիայի ընտրացանկ"</string>
+    <string name="next_action">Յաջորդ</string>
+    <string msgid="6610465462668679431" name="not_selected">"Ընտրված չէ"</string>
+    <string msgid="6573031135582639649" name="not_set">"Կարգավորված չէ"</string>
+    <string name="notification_action_archive">Արխիւացնել</string>
+    <string name="notification_action_archive_all">Արխիւացնել բոլորը</string>
+    <string name="notification_action_delete">Հեռացնել</string>
+    <string name="notification_action_delete_all">Հեռացնել բոլորը</string>
+    <string name="notification_action_mark_all_as_read">Նշել բոլոր ընթերցուածները</string>
+    <string name="notification_action_mark_as_read">Նշել ընթերցուածները</string>
+    <string name="notification_action_reply">Պատասխանել</string>
+    <string name="notification_action_spam">Լցօն</string>
+    <string name="notification_authentication_error_text">Վաւերացումը խափանուել է <ns1:g id="account">%s</ns1:g>֊ի համար։ Թարմացրէք ձեր սպասարկչի կարգաւորումները։</string>
+    <string name="notification_authentication_error_title">Վաւերացումը խափանուել է</string>
+    <string name="notification_bg_send_ticker">Ուղարկւում է՝ <ns1:g id="account">%s</ns1:g></string>
+    <string name="notification_bg_send_title">Ուղարկւում է</string>
+    <string name="notification_bg_sync_ticker">Ստուգւում է փոստը <ns1:g id="account">%1$s</ns1:g>:<ns1:g id="folder">%2$s</ns1:g></string>
+    <string name="notification_bg_sync_title">Ստուգել էլ․ փոստ</string>
+    <string name="notification_bg_title_separator">․</string>
+    <string name="notification_certificate_error_text">Վերանայէք սպասարկչի կարգաւորումները</string>
+    <string name="notification_certificate_error_title">Արտոնագրի սխալ <ns1:g id="account">%s</ns1:g>֊ի համար</string>
+    <string name="number_picker_decrement_button">Նվազեցնել</string>
+    <string name="number_picker_increment_button">Ավելացնել</string>
+    <string msgid="875452955155264703" name="off">"Անջատված է"</string>
+    <string name="okay_action">Լաւ</string>
+    <string msgid="8655164131929253426" name="on">"Միացված է"</string>
+    <string name="password_toggle_content_description">Ցուցադրել գաղտնաբառը</string>
+    <string msgid="6685851473431805375" name="preference_copied">"«<ns1:g id="SUMMARY">%1$s</ns1:g>». պատճենվեց սեղմատախտակին:"</string>
+    <string name="preferences_action">Կարգաւորումներ</string>
+    <string name="prefs_title">Կարգաւորումներ</string>
+    <string name="quiet_time">Հանգստի ժամանակ</string>
+    <string name="quiet_time_description">Անջատել զանգը, վիբրացիան եւ լոյսային ազդանշաները գիշերը։</string>
+    <string name="quiet_time_ends">Հանգստի Ժամանակն աւարտւում է</string>
+    <string name="quiet_time_notification">Անջատել ծանուցումները</string>
+    <string name="quiet_time_notification_description">Բացառապէս անջատել ծանուցումները Հանգստի Ժամանակ</string>
+    <string name="quiet_time_starts">Հանգստի Ժամանակը սկսւում է</string>
+    <string msgid="5941395253238309765" name="range_end">"Ընդգրկույթի վերջ"</string>
+    <string msgid="7097486360902471446" name="range_start">"Ընդգրկույթի սկիզբ"</string>
+    <string name="read_receipt">Ընթերցման ստացականը</string>
+    <string name="read_receipt_disabled">Չի պահանջելու ընթերցուած լինելու ստացականը</string>
+    <string name="read_receipt_enabled">Պահանջելու է ընթերցուած լինելու ստացականը</string>
+    <string name="refresh_folders_action">Թարմացնել պանակների ցանկը</string>
+    <string name="remove_account_action">Հեռացնել հաշիւը</string>
+    <string name="reply_action">Պատասխանել</string>
+    <string name="reply_all_action">Պատասխանել բոլորին</string>
+    <string name="save_draft_action">Պահել որպէս սեւագիր</string>
+    <string name="save_or_discard_draft_message_instructions_fmt">Պահե՞լ թէ Նետել այս իմակը։</string>
+    <string name="search_action">Փնտրել</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Որոնել"</string>
+    <string name="search_results">Փնտրման արդիւնքները</string>
+    <string name="select_day">Ընտրեք ամիսն ու օրը</string>
+    <string name="select_hours">Ընտրեք ժամը</string>
+    <string name="select_minutes">Ընտրեք րոպեն</string>
+    <string name="select_year">Ընտրեք տարին</string>
+    <string msgid="6043586758067023" name="selected">"Ընտրված է"</string>
+    <string name="send_action">Ուղարկել</string>
+    <string name="send_alternate_action">Տարածել</string>
+    <string name="send_alternate_chooser_title">Ընտրել ուղարկողին</string>
+    <string name="send_failure_subject">Որոշ հաղորդագրութիւնների ուղարկումը խափանուել է</string>
+    <string name="send_messages_action">Ուղարկել հաղորդագրութիւններ</string>
+    <string name="sent_folder_label">Ուղարկուածների պանակ</string>
+    <string name="settings_export_share_button">Տարածել</string>
+    <string name="shortcuts_title">Կ֊9 հաշիւներ</string>
+    <string name="show_headers_action">Ցոյց տալ խորագրերը</string>
+    <string name="sort_by_subject">Վերնագիր</string>
+    <string name="spam_action">Լցօն</string>
+    <string name="spam_folder_label">Լցօնի պանակ</string>
+    <string name="special_mailbox_name_drafts">Սեւագրեր</string>
+    <string name="special_mailbox_name_inbox">Մուտքային</string>
+    <string name="special_mailbox_name_outbox">Ելքային</string>
+    <string name="special_mailbox_name_sent">Ուղարկուած</string>
+    <string name="special_mailbox_name_trash">Աղբարկղ</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_invalid_id_error">Նամակը գտնուած չէ</string>
+    <string name="status_loading_more">Բեռնւում են նամակները\u2026</string>
+    <string name="status_network_error">Կապի սխալ</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="swipe_action_add_star">Աւելացնել աստղ</string>
+    <string name="swipe_action_archive">Արխիւ</string>
+    <string name="swipe_action_delete">Հեռացնել</string>
+    <string name="swipe_action_deselect">Ապանշել</string>
+    <string name="swipe_action_mark_as_unread">Նշել չընթերցուածները</string>
+    <string name="swipe_action_remove_star">Հեռացնել աստղ</string>
+    <string name="swipe_action_select">Նշել</string>
+    <string name="swipe_action_spam">Լցօն</string>
+    <string msgid="2561197295334830845" name="switch_role">"Փոխանջատիչ"</string>
+    <string msgid="1672349317127674378" name="tab">"Ներդիր"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> տոկոս։"</string>
+    <string name="time_picker_decrement_hour_button">Նվազեցնել ժամը</string>
+    <string name="time_picker_decrement_minute_button">Նվազեցնել րոպեն</string>
+    <string name="time_picker_decrement_set_am_button">Դնել AM</string>
+    <string name="time_picker_header_text">Ժամը</string>
+    <string name="time_picker_hour_label">ժամ</string>
+    <string name="time_picker_increment_hour_button">Աճեցնել ժամը</string>
+    <string name="time_picker_increment_minute_button">Աճեցնել րոպեն</string>
+    <string name="time_picker_increment_set_pm_button">Դնել PM</string>
+    <string name="time_picker_input_error">Մուտքագրեք վավեր ժամ</string>
+    <string name="time_picker_minute_label">րոպե</string>
+    <string name="time_picker_prompt_label">Մուտքագրեք ժամը</string>
+    <string name="time_picker_radial_mode_description">Ժամը մուտքագրելու համար միացրեք ժամացույցի ռեժիմը:</string>
+    <string name="time_picker_text_input_mode_description">Ժամը մուտքագրելու համար միացրեք տեքստի մուտքագրման ռեժիմը:</string>
+    <string name="trash_folder_label">Աղբարկղի պանակ</string>
+    <string name="unflag_action">Հեռացնել աստղ</string>
+    <string name="unread_widget_label">Կ֊9 Չընթերցուած</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"ԱՆՋԱՏԱԾ"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ՄԻԱՑՎԱԾ"</string>
+    <string name="webview_contextmenu_email_clipboard_label">Էլ․ փոստի հասցէ</string>
+</resources>

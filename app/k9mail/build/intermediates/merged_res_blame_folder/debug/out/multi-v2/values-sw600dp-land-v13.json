@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fsck.k9.k9mail-mergeDebugResources-95:/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\habti\\Music\\AndroidProjects\\Erga Mail\\app\\k9mail\\src\\main\\res\\values-sw600dp-land\\unread_widget_styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "115",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "477"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "417"
+                    }
+                }
+            ]
+        }
+    ]
+}

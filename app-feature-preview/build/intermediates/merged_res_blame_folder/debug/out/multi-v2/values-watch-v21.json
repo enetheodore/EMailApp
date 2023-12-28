@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "app.k9mail.feature.preview.app-feature-preview-mergeDebugResources-67:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\habti\\.gradle\\caches\\transforms-3\\239a852cc65cef62b1a8a40e25f2d1ea\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

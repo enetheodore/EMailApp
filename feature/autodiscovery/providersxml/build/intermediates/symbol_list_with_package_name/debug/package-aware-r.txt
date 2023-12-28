@@ -1,0 +1,2 @@
+app.k9mail.autodiscovery.providersxml
+xml providers

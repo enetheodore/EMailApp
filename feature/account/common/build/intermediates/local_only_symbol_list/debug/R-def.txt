@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+string account_common_button_back
+string account_common_button_next
+string account_common_title

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "app.k9mail.ui.catalog.app-ui-catalog-mergeDebugResources-64:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\habti\\.gradle\\caches\\transforms-3\\239a852cc65cef62b1a8a40e25f2d1ea\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

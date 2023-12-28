@@ -1,0 +1,4 @@
+R_DEF: Internal format may change without notice
+local
+drawable core_ui_theme_k9_logo
+drawable core_ui_theme_thunderbird_logo

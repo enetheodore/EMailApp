@@ -1,0 +1,5 @@
+int drawable onboarding_welcome_logo 0x0
+int string onboarding_welcome_import_button 0x0
+int string onboarding_welcome_message 0x0
+int string onboarding_welcome_start_button 0x0
+int string onboarding_welcome_title 0x0

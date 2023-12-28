@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\designsystem\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest4647111256099641092.xml:2:13-83
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\designsystem\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest4647111256099641092.xml:2:13-83
+	package
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\designsystem\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest4647111256099641092.xml
+	xmlns:android
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\designsystem\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest4647111256099641092.xml:2:23-81
+uses-sdk
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\designsystem\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest4647111256099641092.xml reason: use-sdk injection requested
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\designsystem\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest4647111256099641092.xml
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\designsystem\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest4647111256099641092.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\designsystem\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest4647111256099641092.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\designsystem\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest4647111256099641092.xml

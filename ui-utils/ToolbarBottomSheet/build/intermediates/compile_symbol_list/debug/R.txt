@@ -1,0 +1,6 @@
+int id container 0x0
+int id coordinator 0x0
+int id design_bottom_sheet 0x0
+int id toolbar 0x0
+int id touch_outside 0x0
+int layout design_bottom_sheet_dialog 0x0

@@ -1,0 +1,17 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="app.k9mail.ui.widget.list" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+6
+7    <application>
+7-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml:3:5-9:19
+8        <service
+8-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml:5:9-7:72
+9            android:name="app.k9mail.ui.widget.list.MessageListWidgetService"
+9-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml:6:13-53
+10            android:permission="android.permission.BIND_REMOTEVIEWS" />
+10-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml:7:13-69
+11    </application>
+12
+13</manifest>

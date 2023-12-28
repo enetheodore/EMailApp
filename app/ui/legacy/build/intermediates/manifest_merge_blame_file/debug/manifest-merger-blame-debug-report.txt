@@ -1,0 +1,91 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fsck.k9.ui" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+6
+7    <uses-permission android:name="android.permission.VIBRATE" />
+7-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:4:5-66
+7-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:4:22-63
+8
+9    <queries>
+9-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:16:5-52:15
+10        <intent>
+10-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:17:9-24:18
+11
+12            <!-- Used to check whether to display the "Add from Contacts" menu item in the compose screen -->
+13            <action android:name="android.intent.action.PICK" />
+13-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:19:13-65
+13-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:19:21-62
+14
+15            <data
+15-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:20:13-23:55
+16                android:host="com.android.contacts"
+16-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:23:17-52
+17                android:mimeType="*/*"
+17-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:21:17-39
+18                android:scheme="content" />
+18-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:22:17-41
+19        </intent>
+20        <intent>
+20-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:26:9-32:18
+21
+22            <!-- Used by AttachmentController to find the best Intent to view an attachment -->
+23            <action android:name="android.intent.action.VIEW" />
+23-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:28:13-65
+23-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:28:21-62
+24
+25            <data
+25-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:20:13-23:55
+26                android:mimeType="*/*"
+26-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:21:17-39
+27                android:scheme="content" />
+27-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:22:17-41
+28        </intent>
+29        <intent>
+29-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:34:9-37:18
+30
+31            <!-- Used by the OpenPGP API -->
+32            <action android:name="org.openintents.openpgp.IOpenPgpService2" />
+32-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:36:13-79
+32-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:36:21-76
+33        </intent>
+34        <intent>
+34-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:39:9-46:18
+35
+36            <!-- Used by OpenPgpAppSelectDialog -->
+37            <action android:name="android.intent.action.VIEW" />
+37-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:28:13-65
+37-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:28:21-62
+38
+39            <data
+39-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:20:13-23:55
+40                android:host="details"
+40-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:23:17-52
+41                android:mimeType="*/*"
+41-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:21:17-39
+42                android:scheme="market" />
+42-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:22:17-41
+43        </intent>
+44        <intent>
+44-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:48:9-51:18
+45
+46            <!-- Used by OpenPgpAppSelectDialog -->
+47            <action android:name="org.openintents.openpgp.IOpenPgpService" />
+47-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:50:13-78
+47-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:50:21-75
+48        </intent>
+49    </queries>
+50
+51    <application
+51-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:6:5-14:19
+52        android:supportsRtl="true"
+52-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:8:9-35
+53        android:theme="@style/Theme.K9.Light" >
+53-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:7:9-46
+54        <activity android:name="com.fsck.k9.activity.FragmentLauncherActivity" />
+54-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:10:9-12:15
+54-->C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\src\main\AndroidManifest.xml:11:13-73
+55    </application>
+56
+57</manifest>

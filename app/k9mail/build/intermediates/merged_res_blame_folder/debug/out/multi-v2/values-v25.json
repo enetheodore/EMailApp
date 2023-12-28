@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fsck.k9.k9mail-mergeDebugResources-95:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\habti\\.gradle\\caches\\transforms-3\\239a852cc65cef62b1a8a40e25f2d1ea\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_welcome_import_button">Import settings</string>
+    <string name="onboarding_welcome_message">Welcome to Erga Mail, the Android email client designed for enhanced security and seamless management of your email accounts.</string>
+    <string name="onboarding_welcome_start_button">Start</string>
+    <string name="onboarding_welcome_title">Erga Mail</string>
+</resources>

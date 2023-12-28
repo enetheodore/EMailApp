@@ -1,0 +1,24 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml:2:1-10:12
+	package
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml:3:5-9:19
+service#app.k9mail.ui.widget.list.MessageListWidgetService
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml:5:9-7:72
+	android:permission
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml:7:13-69
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml:6:13-53
+uses-sdk
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\src\main\AndroidManifest.xml

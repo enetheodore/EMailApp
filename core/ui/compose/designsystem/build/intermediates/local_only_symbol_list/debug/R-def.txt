@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+string designsystem_atom_password_textfield_hide_password
+string designsystem_atom_password_textfield_show_password
+string designsystem_molecule_email_address_input_label
+string designsystem_molecule_error_view_button_retry
+string designsystem_molecule_password_input_label

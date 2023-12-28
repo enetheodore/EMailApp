@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="account_colors">
+
+
+
+
+
+
+
+
+
+
+
+
+        <item>@color/material_blue_700</item>
+        <item>@color/material_indigo_600</item>
+
+
+
+        <item>@color/material_deep_purple_600</item>
+        <item>@color/material_blue_gray_700</item>
+    </integer-array>
+    <string-array name="autodownload_message_size_values" translatable="false">
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>8192</item>
+        <item>16384</item>
+        <item>32768</item>
+        <item>65536</item>
+        <item>131072</item>
+        <item>262144</item>
+        <item>524288</item>
+        <item>1048576</item>
+        <item>2097152</item>
+        <item>5242880</item>
+        <item>10485760</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="background_ops_values" translatable="false">
+        <item>WHEN_CHECKED_AUTO_SYNC</item>
+        <item>ALWAYS</item>
+        <item>NEVER</item>
+    </string-array>
+    <string-array name="check_frequency_values" translatable="false">
+        <item>-1</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>360</item>
+        <item>720</item>
+        <item>1440</item>
+    </string-array>
+    <string-array name="confirm_action_values" translatable="false">
+        <item>delete</item>
+        <item>delete_starred</item>
+        <item>delete_notif</item>
+        <item>spam</item>
+        <item>discard</item>
+        <item>mark_all_read</item>
+    </string-array>
+    <integer-array name="default_account_colors">
+        <item>@color/material_blue_700</item>
+        <item>@color/material_pink_500</item>
+        <item>@color/material_amber_600</item>
+    </integer-array>
+    <string-array name="delete_policy_values" translatable="false">
+        <item>NEVER</item>
+        <item>ON_DELETE</item>
+        <item>MARK_AS_READ</item>
+    </string-array>
+    <string-array name="display_count_values" translatable="false">
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>100</item>
+        <item>250</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>2500</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>0</item>
+    </string-array>
+    <integer-array name="drawer_account_accent_color_dark_theme">
+        <item>@color/material_amber_600</item>
+        <item>@color/material_orange_500</item>
+        <item>@color/material_deep_orange_400</item>
+        <item>@color/material_red_400</item>
+
+        <item>@color/material_lime_600</item>
+        <item>@color/material_light_green_600</item>
+        <item>@color/material_green_500</item>
+        <item>@color/material_teal_300</item>
+
+        <item>@color/material_cyan_600</item>
+        <item>@color/material_light_blue_500</item>
+        <item>@color/material_blue_400</item>
+        <item>@color/material_indigo_200</item>
+
+        <item>@color/material_pink_200</item>
+        <item>@color/material_purple_200</item>
+        <item>@color/material_deep_purple_200</item>
+        <item>@color/material_blue_gray_300</item>
+    </integer-array>
+    <string-array name="expunge_policy_values" translatable="false">
+        <item>EXPUNGE_IMMEDIATELY</item>
+        <item>EXPUNGE_ON_POLL</item>
+        <item>EXPUNGE_MANUALLY</item>
+    </string-array>
+    <string-array name="folder_display_mode_values" translatable="false">
+        <item>ALL</item>
+        <item>FIRST_CLASS</item>
+        <item>FIRST_AND_SECOND_CLASS</item>
+        <item>NOT_SECOND_CLASS</item>
+    </string-array>
+    <string-array name="folder_notify_new_mail_mode_values" translatable="false">
+        <item>ALL</item>
+        <item>FIRST_CLASS</item>
+        <item>FIRST_AND_SECOND_CLASS</item>
+        <item>NOT_SECOND_CLASS</item>
+        <item>NONE</item>
+    </string-array>
+    <string-array name="folder_push_mode_values" translatable="false">
+        <item>ALL</item>
+        <item>FIRST_CLASS</item>
+        <item>FIRST_AND_SECOND_CLASS</item>
+        <item>NOT_SECOND_CLASS</item>
+        <item>NONE</item>
+    </string-array>
+    <string-array name="folder_sync_mode_values" translatable="false">
+        <item>ALL</item>
+        <item>FIRST_CLASS</item>
+        <item>FIRST_AND_SECOND_CLASS</item>
+        <item>NOT_SECOND_CLASS</item>
+        <item>NONE</item>
+    </string-array>
+    <string-array name="folder_target_mode_values" translatable="false">
+        <item>ALL</item>
+        <item>FIRST_CLASS</item>
+        <item>FIRST_AND_SECOND_CLASS</item>
+        <item>NOT_SECOND_CLASS</item>
+    </string-array>
+    <string-array name="idle_refresh_period_values" translatable="false">
+        <item>2</item>
+        <item>3</item>
+        <item>6</item>
+        <item>12</item>
+        <item>24</item>
+        <item>36</item>
+        <item>48</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="language_values" translatable="false">
+        <item/>
+        <item>af</item>
+        <item>az</item>
+        <item>in</item>
+        <item>ms</item>
+        <item>bm</item>
+        <item>br</item>
+        <item>ca</item>
+        <item>cs</item>
+        <item>cy</item>
+        <item>da</item>
+        <item>de</item>
+        <item>et</item>
+        <item>en</item>
+        <item>en_GB</item>
+        <item>es</item>
+        <item>eo</item>
+        <item>eu</item>
+        <item>ee</item>
+        <item>fr</item>
+        <item>fr_CA</item>
+        <item>fy</item>
+        <item>ff</item>
+        <item>ga</item>
+        <item>gd</item>
+        <item>gl</item>
+        <item>ha</item>
+        <item>hr</item>
+        <item>xs</item>
+        <item>zu</item>
+        <item>is</item>
+        <item>it</item>
+        <item>rw</item>
+        <item>rn</item>
+        <item>sw</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>hu</item>
+        <item>mt</item>
+        <item>nl</item>
+        <item>no</item>
+        <item>nb</item>
+        <item>uz</item>
+        <item>pl</item>
+        <item>pt_PT</item>
+        <item>pt_BR</item>
+        <item>ro</item>
+        <item>sq</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>so</item>
+        <item>fi</item>
+        <item>sv</item>
+        <item>vi</item>
+        <item>tr</item>
+        <item>wo</item>
+        <item>yo</item>
+        <item>el</item>
+        <item>ab</item>
+        <item>be</item>
+        <item>bg</item>
+        <item>ky</item>
+        <item>kk</item>
+        <item>mk</item>
+        <item>ru</item>
+        <item>sr</item>
+        <item>uk</item>
+        <item>hy</item>
+        <item>iw</item>
+        <item>ur</item>
+        <item>ar</item>
+        <item>ps</item>
+        <item>fa</item>
+        <item>am</item>
+        <item>hi</item>
+        <item>ml</item>
+        <item>te</item>
+        <item>kn</item>
+        <item>th</item>
+        <item>ko</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>ja</item>
+    </string-array>
+    <string-array name="lock_screen_notification_visibility_values" translatable="false">
+        <item name="0">NOTHING</item>
+        <item name="1">APP_NAME</item>
+        <item name="2">MESSAGE_COUNT</item>
+        <item name="3">SENDERS</item>
+        <item name="4">EVERYTHING</item>
+    </string-array>
+    <string-array name="message_age_values" translatable="false">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>7</item>
+        <item>14</item>
+        <item>21</item>
+        <item>28</item>
+        <item>56</item>
+        <item>84</item>
+        <item>168</item>
+        <item>365</item>
+    </string-array>
+    <string-array name="message_format_values" translatable="false">
+        <item>TEXT</item>
+        <item>HTML</item>
+        <item>AUTO</item>
+    </string-array>
+    <string-array name="message_theme_values" translatable="false">
+        <item>light</item>
+        <item>dark</item>
+        <item>global</item>
+    </string-array>
+    <string-array name="messageview_visible_refile_actions_values" translatable="false">
+        <item>delete</item>
+        <item>archive</item>
+        <item>move</item>
+        <item>copy</item>
+        <item>spam</item>
+    </string-array>
+    <string-array name="notification_light_values" translatable="false">
+        <item>Disabled</item>
+        <item>AccountColor</item>
+        <item>SystemDefaultColor</item>
+        <item>White</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
+        <item>Magenta</item>
+    </string-array>
+    <string-array name="notification_quick_delete_values" translatable="false">
+        <item name="1">NEVER</item>
+        <item name="2">FOR_SINGLE_MSG</item>
+        <item name="3">ALWAYS</item>
+    </string-array>
+    <string-array name="post_remove_navigation_values" translatable="false">
+        <item>ReturnToMessageList</item>
+        <item>ShowPreviousMessage</item>
+        <item>ShowNextMessage</item>
+    </string-array>
+    <string-array name="preview_lines_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="push_limit_values" translatable="false">
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>100</item>
+        <item>250</item>
+        <item>500</item>
+        <item>1000</item>
+    </string-array>
+    <string-array name="quote_style_values" translatable="false">
+        <item>PREFIX</item>
+        <item>HEADER</item>
+    </string-array>
+    <string-array name="remote_search_num_results_values" translatable="false">
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>100</item>
+        <item>250</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="searchable_values" translatable="false">
+        <item>ALL</item>
+        <item>DISPLAYABLE</item>
+        <item>NONE</item>
+    </string-array>
+    <string-array name="show_pictures_values" translatable="false">
+        <item>NEVER</item>
+        <item>ONLY_FROM_CONTACTS</item>
+        <item>ALWAYS</item>
+    </string-array>
+    <string-array name="splitview_mode_values" translatable="false">
+        <item>ALWAYS</item>
+        <item>NEVER</item>
+        <item>WHEN_IN_LANDSCAPE</item>
+    </string-array>
+    <string-array name="supported_languages" translatable="false">
+        <item/>
+        <item>in</item>
+        <item>br</item>
+        <item>ca</item>
+        <item>cs</item>
+        <item>cy</item>
+        <item>da</item>
+        <item>de</item>
+        <item>et</item>
+        <item>en</item>
+        <item>en_GB</item>
+        <item>es</item>
+        <item>eo</item>
+        <item>eu</item>
+        <item>fr</item>
+        <item>fy</item>
+        <item>gd</item>
+        <item>gl</item>
+        <item>hr</item>
+        <item>is</item>
+        <item>it</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>hu</item>
+        <item>nl</item>
+        <item>nb</item>
+        <item>pl</item>
+        <item>pt_PT</item>
+        <item>pt_BR</item>
+        <item>ru</item>
+        <item>ro</item>
+        <item>sq</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>fi</item>
+        <item>sv</item>
+        <item>tr</item>
+        <item>el</item>
+        <item>be</item>
+        <item>bg</item>
+        <item>sr</item>
+        <item>uk</item>
+        <item>iw</item>
+        <item>ar</item>
+        <item>fa</item>
+        <item>ml</item>
+        <item>ko</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>ja</item>
+    </string-array>
+    <string-array name="swipe_action_values" translatable="false">
+        <item>none</item>
+        <item>toggle_selection</item>
+        <item>toggle_read</item>
+        <item>toggle_star</item>
+        <item>archive</item>
+        <item>delete</item>
+        <item>spam</item>
+        <item>move</item>
+    </string-array>
+    <string-array name="theme_values" translatable="false">
+        <item>light</item>
+        <item>dark</item>
+        <item>follow_system</item>
+    </string-array>
+    <string-array name="theme_values_legacy" translatable="false">
+        <item>follow_system</item>
+        <item>dark</item>
+    </string-array>
+    <string-array name="vibrate_pattern_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <color name="material_amber_100">#FFECB3</color>
+    <color name="material_amber_200">#FFE082</color>
+    <color name="material_amber_300">#FFD54F</color>
+    <color name="material_amber_400">#FFCA28</color>
+    <color name="material_amber_50">#FFF8E1</color>
+    <color name="material_amber_500">#FFC107</color>
+    <color name="material_amber_600">#FFB300</color>
+    <color name="material_amber_700">#FFA000</color>
+    <color name="material_amber_800">#FF8F00</color>
+    <color name="material_amber_900">#FF6F00</color>
+    <color name="material_blue_100">#BBDEFB</color>
+    <color name="material_blue_200">#90CAF9</color>
+    <color name="material_blue_300">#64B5F6</color>
+    <color name="material_blue_400">#42A5F5</color>
+    <color name="material_blue_50">#E3F2FD</color>
+    <color name="material_blue_500">#2196F3</color>
+    <color name="material_blue_600">#1E88E5</color>
+    <color name="material_blue_700">#1976D2</color>
+    <color name="material_blue_800">#1565C0</color>
+    <color name="material_blue_900">#0D47A1</color>
+    <color name="material_blue_gray_100">#CFD8DC</color>
+    <color name="material_blue_gray_200">#B0BEC5</color>
+    <color name="material_blue_gray_300">#90A4AE</color>
+    <color name="material_blue_gray_400">#78909C</color>
+    <color name="material_blue_gray_50">#ECEFF1</color>
+    <color name="material_blue_gray_500">#607D8B</color>
+    <color name="material_blue_gray_600">#546E7A</color>
+    <color name="material_blue_gray_700">#455A64</color>
+    <color name="material_blue_gray_800">#37474F</color>
+    <color name="material_blue_gray_900">#263238</color>
+    <color name="material_brown_100">#D7CCC8</color>
+    <color name="material_brown_200">#BCAAA4</color>
+    <color name="material_brown_300">#A1887F</color>
+    <color name="material_brown_400">#8D6E63</color>
+    <color name="material_brown_50">#EFEBE9</color>
+    <color name="material_brown_500">#795548</color>
+    <color name="material_brown_600">#6D4C41</color>
+    <color name="material_brown_700">#5D4037</color>
+    <color name="material_brown_800">#4E342E</color>
+    <color name="material_brown_900">#3E2723</color>
+    <color name="material_cyan_100">#B2EBF2</color>
+    <color name="material_cyan_200">#80DEEA</color>
+    <color name="material_cyan_300">#4DD0E1</color>
+    <color name="material_cyan_400">#26C6DA</color>
+    <color name="material_cyan_50">#E0F7FA</color>
+    <color name="material_cyan_500">#00BCD4</color>
+    <color name="material_cyan_600">#00ACC1</color>
+    <color name="material_cyan_700">#0097A7</color>
+    <color name="material_cyan_800">#00838F</color>
+    <color name="material_cyan_900">#006064</color>
+    <color name="material_deep_orange_100">#FFCCBC</color>
+    <color name="material_deep_orange_200">#FFAB91</color>
+    <color name="material_deep_orange_300">#FF8A65</color>
+    <color name="material_deep_orange_400">#FF7043</color>
+    <color name="material_deep_orange_50">#FBE9E7</color>
+    <color name="material_deep_orange_500">#FF5722</color>
+    <color name="material_deep_orange_600">#F4511E</color>
+    <color name="material_deep_orange_700">#E64A19</color>
+    <color name="material_deep_orange_800">#D84315</color>
+    <color name="material_deep_orange_900">#BF360C</color>
+    <color name="material_deep_purple_100">#D1C4E9</color>
+    <color name="material_deep_purple_200">#B39DDB</color>
+    <color name="material_deep_purple_300">#9575CD</color>
+    <color name="material_deep_purple_400">#7E57C2</color>
+    <color name="material_deep_purple_50">#EDE7F6</color>
+    <color name="material_deep_purple_500">#673AB7</color>
+    <color name="material_deep_purple_600">#5E35B1</color>
+    <color name="material_deep_purple_700">#512DA8</color>
+    <color name="material_deep_purple_800">#4527A0</color>
+    <color name="material_deep_purple_900">#311B92</color>
+    <color name="material_gray_100">#F5F5F5</color>
+    <color name="material_gray_200">#EEEEEE</color>
+    <color name="material_gray_300">#E0E0E0</color>
+    <color name="material_gray_400">#BDBDBD</color>
+    <color name="material_gray_50">#FAFAFA</color>
+    <color name="material_gray_500">#9E9E9E</color>
+    <color name="material_gray_600">#757575</color>
+    <color name="material_gray_700">#616161</color>
+    <color name="material_gray_800">#424242</color>
+    <color name="material_gray_900">#212121</color>
+    <color name="material_green_100">#C8E6C9</color>
+    <color name="material_green_200">#A5D6A7</color>
+    <color name="material_green_300">#81C784</color>
+    <color name="material_green_400">#66BB6A</color>
+    <color name="material_green_50">#E8F5E9</color>
+    <color name="material_green_500">#4CAF50</color>
+    <color name="material_green_600">#43A047</color>
+    <color name="material_green_700">#388E3C</color>
+    <color name="material_green_800">#2E7D32</color>
+    <color name="material_green_900">#1B5E20</color>
+    <color name="material_indigo_100">#C5CAE9</color>
+    <color name="material_indigo_200">#9FA8DA</color>
+    <color name="material_indigo_300">#7986CB</color>
+    <color name="material_indigo_400">#5C6BC0</color>
+    <color name="material_indigo_50">#E8EAF6</color>
+    <color name="material_indigo_500">#3F51B5</color>
+    <color name="material_indigo_600">#3949AB</color>
+    <color name="material_indigo_700">#303F9F</color>
+    <color name="material_indigo_800">#283593</color>
+    <color name="material_indigo_900">#1A237E</color>
+    <color name="material_light_blue_100">#B3E5FC</color>
+    <color name="material_light_blue_200">#81D4FA</color>
+    <color name="material_light_blue_300">#4FC3F7</color>
+    <color name="material_light_blue_400">#29B6F6</color>
+    <color name="material_light_blue_50">#E1F5FE</color>
+    <color name="material_light_blue_500">#03A9F4</color>
+    <color name="material_light_blue_600">#039BE5</color>
+    <color name="material_light_blue_700">#0288D1</color>
+    <color name="material_light_blue_800">#0277BD</color>
+    <color name="material_light_blue_900">#01579B</color>
+    <color name="material_light_green_100">#DCEDC8</color>
+    <color name="material_light_green_200">#C5E1A5</color>
+    <color name="material_light_green_300">#AED581</color>
+    <color name="material_light_green_400">#9CCC65</color>
+    <color name="material_light_green_50">#F1F8E9</color>
+    <color name="material_light_green_500">#8BC34A</color>
+    <color name="material_light_green_600">#7CB342</color>
+    <color name="material_light_green_700">#689F38</color>
+    <color name="material_light_green_800">#558B2F</color>
+    <color name="material_light_green_900">#33691E</color>
+    <color name="material_lime_100">#F0F4C3</color>
+    <color name="material_lime_200">#E6EE9C</color>
+    <color name="material_lime_300">#DCE775</color>
+    <color name="material_lime_400">#D4E157</color>
+    <color name="material_lime_50">#F9FBE7</color>
+    <color name="material_lime_500">#CDDC39</color>
+    <color name="material_lime_600">#C0CA33</color>
+    <color name="material_lime_700">#AFB42B</color>
+    <color name="material_lime_800">#9E9D24</color>
+    <color name="material_lime_900">#827717</color>
+    <color name="material_orange_100">#FFE0B2</color>
+    <color name="material_orange_200">#FFCC80</color>
+    <color name="material_orange_300">#FFB74D</color>
+    <color name="material_orange_400">#FFA726</color>
+    <color name="material_orange_50">#FFF3E0</color>
+    <color name="material_orange_500">#FF9800</color>
+    <color name="material_orange_600">#FB8C00</color>
+    <color name="material_orange_700">#F57C00</color>
+    <color name="material_orange_800">#EF6C00</color>
+    <color name="material_orange_900">#E65100</color>
+    <color name="material_pink_100">#F8BBD0</color>
+    <color name="material_pink_200">#F48FB1</color>
+    <color name="material_pink_300">#F06292</color>
+    <color name="material_pink_400">#EC407A</color>
+    <color name="material_pink_50">#FCE4EC</color>
+    <color name="material_pink_500">#E91E63</color>
+    <color name="material_pink_600">#D81B60</color>
+    <color name="material_pink_700">#C2185B</color>
+    <color name="material_pink_800">#AD1457</color>
+    <color name="material_pink_900">#880E4F</color>
+    <color name="material_purple_100">#E1BEE7</color>
+    <color name="material_purple_200">#CE93D8</color>
+    <color name="material_purple_300">#BA68C8</color>
+    <color name="material_purple_400">#AB47BC</color>
+    <color name="material_purple_50">#F3E5F5</color>
+    <color name="material_purple_500">#9C27B0</color>
+    <color name="material_purple_600">#8E24AA</color>
+    <color name="material_purple_700">#7B1FA2</color>
+    <color name="material_purple_800">#6A1B9A</color>
+    <color name="material_purple_900">#4A148C</color>
+    <color name="material_red_100">#FFCDD2</color>
+    <color name="material_red_200">#EF9A9A</color>
+    <color name="material_red_300">#E57373</color>
+    <color name="material_red_400">#EF5350</color>
+    <color name="material_red_50">#FFEBEE</color>
+    <color name="material_red_500">#F44336</color>
+    <color name="material_red_600">#E53935</color>
+    <color name="material_red_700">#D32F2F</color>
+    <color name="material_red_800">#C62828</color>
+    <color name="material_red_900">#B71C1C</color>
+    <color name="material_teal_100">#B2DFDB</color>
+    <color name="material_teal_200">#80CBC4</color>
+    <color name="material_teal_300">#4DB6AC</color>
+    <color name="material_teal_400">#26A69A</color>
+    <color name="material_teal_50">#E0F2F1</color>
+    <color name="material_teal_500">#009688</color>
+    <color name="material_teal_600">#00897B</color>
+    <color name="material_teal_700">#00796B</color>
+    <color name="material_teal_800">#00695C</color>
+    <color name="material_teal_900">#004D40</color>
+    <color name="material_yellow_100">#FFF9C4</color>
+    <color name="material_yellow_200">#FFF59D</color>
+    <color name="material_yellow_300">#FFF176</color>
+    <color name="material_yellow_400">#FFEE58</color>
+    <color name="material_yellow_50">#FFFDE7</color>
+    <color name="material_yellow_500">#FFEB3B</color>
+    <color name="material_yellow_600">#FDD835</color>
+    <color name="material_yellow_700">#FBC02D</color>
+    <color name="material_yellow_800">#F9A825</color>
+    <color name="material_yellow_900">#F57F17</color>
+</resources>

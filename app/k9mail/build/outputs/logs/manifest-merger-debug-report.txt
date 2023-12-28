@@ -1,0 +1,1511 @@
+-- Merging decision tree log ---
+activity#com.fsck.k9.ui.push.PushInfoActivity
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:264:9-274:20
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:268:13-52
+	android:excludeFromRecents
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:266:13-46
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:267:13-37
+	android:taskAffinity
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:269:13-62
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:265:13-53
+provider#com.fsck.k9.provider.AttachmentProvider
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:332:9-342:20
+	android:grantUriPermissions
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:336:13-47
+	android:authorities
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:334:13-70
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:335:13-37
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:333:13-56
+provider#com.fsck.k9.provider.RawMessageProvider
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:344:9-353:20
+	android:authorities
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:346:13-70
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:347:13-37
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:345:13-56
+provider#com.fsck.k9.provider.DecryptedFileProvider
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:355:9-364:20
+	android:grantUriPermissions
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:359:13-47
+	android:authorities
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:357:13-73
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:358:13-37
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:356:13-59
+provider#com.fsck.k9.provider.AttachmentTempFileProvider
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:366:9-375:20
+	android:grantUriPermissions
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:370:13-47
+	android:authorities
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:368:13-68
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:369:13-37
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:367:13-64
+data
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:388:17-80
+	android:host
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:155:21-44
+	android:scheme
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:156:21-44
+	android:mimeType
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:176:23-45
+provider#androidx.startup.InitializationProvider
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:392:9-404:20
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\habti\.gradle\caches\transforms-3\10df8bfe2dbee3a771511aae0b1c2640\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\habti\.gradle\caches\transforms-3\10df8bfe2dbee3a771511aae0b1c2640\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\28dfde0a8489956bffa8db7d0b28efdb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\28dfde0a8489956bffa8db7d0b28efdb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\994f2f22102389f4d774a5b60de366c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\994f2f22102389f4d774a5b60de366c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:396:13-31
+	android:authorities
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:394:13-68
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:395:13-37
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:393:13-67
+manifest
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:2:1-407:12
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:2:1-407:12
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:2:1-407:12
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:2:1-407:12
+MERGED from [:app:ui:message-list-widget] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-57:12
+MERGED from [:app:storage] C:\Users\habti\Music\AndroidProjects\k-9\app\storage\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:app:crypto-openpgp] C:\Users\habti\Music\AndroidProjects\k-9\app\crypto-openpgp\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:app:ui:base] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\base\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [:app:core] C:\Users\habti\Music\AndroidProjects\k-9\app\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:feature:launcher] C:\Users\habti\Music\AndroidProjects\k-9\feature\launcher\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:feature:account:setup] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\setup\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:account:edit] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\edit\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:account:server:validation] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\server\validation\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:account:oauth] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\oauth\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:account:server:settings] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\server\settings\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:account:server:certificate] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\server\certificate\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:account:common] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\common\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:ui-utils:ToolbarBottomSheet] C:\Users\habti\Music\AndroidProjects\k-9\ui-utils\ToolbarBottomSheet\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:plugins:openpgp-api-lib:openpgp-api] C:\Users\habti\Music\AndroidProjects\k-9\plugins\openpgp-api-lib\openpgp-api\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:ui-utils:LinearLayoutManager] C:\Users\habti\Music\AndroidProjects\k-9\ui-utils\LinearLayoutManager\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:ui-utils:ItemTouchHelper] C:\Users\habti\Music\AndroidProjects\k-9\ui-utils\ItemTouchHelper\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:core:android:common] C:\Users\habti\Music\AndroidProjects\k-9\core\android\common\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:feature:onboarding] C:\Users\habti\Music\AndroidProjects\k-9\feature\onboarding\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:core:ui:compose:designsystem] C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\designsystem\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:core:ui:compose:theme] C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\theme\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:core:ui:compose:common] C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\common\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [io.insert-koin:koin-androidx-compose:3.5.0] C:\Users\habti\.gradle\caches\transforms-3\931547e8e3cdeeec26afdd4637d7f692\transformed\koin-androidx-compose-3.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [io.insert-koin:koin-android:3.5.0] C:\Users\habti\.gradle\caches\transforms-3\5483685c54209c38b41b0686555eec9b\transformed\koin-android-3.5.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:materialdrawer:8.4.5] C:\Users\habti\.gradle\caches\transforms-3\4f0b440b3db56e2dd04b8b5ac681441c\transformed\materialdrawer-8.4.5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mikepenz:fastadapter-extensions-utils:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\735893c774e4550fd2b94c65c2cdd604\transformed\fastadapter-extensions-utils-5.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mikepenz:fastadapter-extensions-drag:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\5b8a46daee299ec2b959a0546232330c\transformed\fastadapter-extensions-drag-5.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.work:work-runtime-ktx:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\fca9d80b74d2fe724d14233941095626\transformed\work-runtime-ktx-2.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\fefe5e35ce84aa2f3c4ad98e8876fa87\transformed\navigation-common-2.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\3822885ad5df1d9df7c5a4ed0511b568\transformed\navigation-common-ktx-2.7.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\fb4b0c7edd1c44a589c0cd39b9d34cf6\transformed\navigation-runtime-2.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\6edc550cad45b4a5c53236b7b10c8ef0\transformed\navigation-runtime-ktx-2.7.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\523faf5c6b6010ee872b3dc4fe02e170\transformed\navigation-ui-2.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\963dfafe0d5e55511a330d9469419b3b\transformed\navigation-fragment-2.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-compose:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\156af77250a7e4bb91f0e3e6701a9e64\transformed\navigation-compose-2.7.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\habti\.gradle\caches\transforms-3\3e23e2e7e79bb31b5485504ed76f7874\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\habti\.gradle\caches\transforms-3\017353f5c9c0e8480488451aed90679b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:15:1-55:12
+MERGED from [com.takisoft.preferencex:preferencex-datetimepicker:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\a783973531d4c513a016525867e4dddf\transformed\preferencex-datetimepicker-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.takisoft.preferencex:preferencex-colorpicker:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\4f63453df71cf7d521759757e02a980f\transformed\preferencex-colorpicker-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.takisoft.preferencex:preferencex:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\abd4e325bc457157fc6713a63c451c53\transformed\preferencex-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.ByteHamster:SearchPreference:v2.3.0] C:\Users\habti\.gradle\caches\transforms-3\19accb722cc2be06c291771c99cb25ea\transformed\SearchPreference-v2.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\habti\.gradle\caches\transforms-3\601b5baef962ae224ad15dacbbbe0f17\transformed\preference-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.splitwise:tokenautocomplete:4.0.0-beta01] C:\Users\habti\.gradle\caches\transforms-3\49cb3e91fc4010454273f077326717b6\transformed\tokenautocomplete-4.0.0-beta01\AndroidManifest.xml:2:1-13:12
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\3a2d665c9cfaeb6ca5641a805fae7ec5\transformed\fastadapter-extensions-expandable-5.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mikepenz:fastadapter-extensions-swipe:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\1972f37147e7b59af437a797431188f0\transformed\fastadapter-extensions-swipe-5.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mikepenz:fastadapter:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\48ffa17ebc89741e9b2bd2acd9b65d26\transformed\fastadapter-5.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\habti\.gradle\caches\transforms-3\508b433ee757c1f2f2497dbce10b14a3\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\9a9b74b8192e0a23bba87bfe6aff8fe4\transformed\biometric-1.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.takisoft.datetimepicker:datetimepicker:1.0.2] C:\Users\habti\.gradle\caches\transforms-3\a982dbd07764408331ab6dddd9fc7d26\transformed\datetimepicker-1.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.takisoft.colorpicker:colorpicker:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\01432ad19f90359c25287e180b1a4ee0\transformed\colorpicker-1.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\habti\.gradle\caches\transforms-3\239a852cc65cef62b1a8a40e25f2d1ea\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\habti\.gradle\caches\transforms-3\692607dda051ca5c2ef22d35de78f7ed\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\habti\.gradle\caches\transforms-3\97143e8a09827a422f2ad95cd9a07277\transformed\recyclerview-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\habti\.gradle\caches\transforms-3\2134799768d46be051e599732f146d79\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] C:\Users\habti\.gradle\caches\transforms-3\cd91ed441f582aa688e8b1a47f103a18\transformed\fragment-ktx-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.6.1] C:\Users\habti\.gradle\caches\transforms-3\69ad6d1bf619ceff74376a11b27d8b43\transformed\fragment-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.32.0] C:\Users\habti\.gradle\caches\transforms-3\c9f4fa7de8790d77eb63c3c9f60f9d31\transformed\accompanist-systemuicontroller-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\21e9501c30cc435ae05d6b7320ae586d\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\4f120c253cfda08f6543dff65d01846d\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\8f8761ff2e68ffb96073964c4325330b\transformed\material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\b9956bb6cf2c98f139eb6e8232e10568\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\80ca469ff6ff5a6e268033db0a581f66\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\177896be780294763331ba94a895c89a\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\8a439666b0790b73d25a2879ddcb5f23\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\e0bea8557e47d56bfab338cc9a2d388e\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\037d54b13f4bd1ba1633076748521538\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\5a279b41c93fbbe098b8155368ecf0b2\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\a7f7849d3c3973b76b5a3c209095b3cd\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\53a0dfaa7ae8726062349909ebb03309\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\aca658e43f143d420989a21541c0f879\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\576f2f4f628dad7ad2a25c4e9c14bb1f\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\ca129994741fee908dd1907244ec4279\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\f18b57a2d83a946ca0b0b69900f0730c\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\fa19f0eef1df9bc053077e8173113a40\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\2b031c3eaff4afe96efa4b017303e008\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.7.2] C:\Users\habti\.gradle\caches\transforms-3\3ba309502fd316ad4bd36a6f22ab2e62\transformed\activity-compose-1.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.7.2] C:\Users\habti\.gradle\caches\transforms-3\69ae528a68dd8a796ae966c66db7d32a\transformed\activity-ktx-1.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.7.2] C:\Users\habti\.gradle\caches\transforms-3\f2f8d531573cc4e6831f9d3419454dcc\transformed\activity-1.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\7763cb44007cb7d08b7c5f5051a67f41\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\ed0f4a3bff497b00d0ac7209fb46b775\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\7cf8479d2389367a0bfe4094045650c5\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\11707719a41020c83d312c86b1b09ce6\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\f2e641c579b53b846d87bd0a32d0bc8f\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\44de4a9ab6bec103f6b99b398dc826e2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\habti\.gradle\caches\transforms-3\c14f791af119d18494f0d297943077cd\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\habti\.gradle\caches\transforms-3\379b08f88fb18309eb9fad2c5b3d536e\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\76db86adee401c0bc7c35871d5072652\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\9267d887d3af36760dc0e1433bebe0d9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\da52e2e210387522ffa6da5f534fadd3\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\1e6e4f127be776b87c1087f5aaa92a66\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\habti\.gradle\caches\transforms-3\da7946830e870c9d305de3bf394ae305\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\3b946d54ef26b85d7fba8b68b4f4a110\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\dd9c55794b1cff8c91a00bdf9ff7bb75\transformed\browser-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\332c2ea1b084890b7f266df480c1b325\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\habti\.gradle\caches\transforms-3\2b37a183b440f638ae805dd2f5365b39\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\habti\.gradle\caches\transforms-3\10df8bfe2dbee3a771511aae0b1c2640\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\edbe7453536595773789c5cfc99732a8\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\28dfde0a8489956bffa8db7d0b28efdb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\a239a1bbe64d66d9dc71afe2fde5e3fb\transformed\lifecycle-service-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\9f24a5c20a86e00f1c331202d9713f9f\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\2a8e6cf84087ef1cb45a92f036895a18\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\126fe7c37302d2a06582d6f97cad080f\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\447da74c9604b6d5769f089739912f95\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\49c1e04fec517353751ee43e09beb149\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\habti\.gradle\caches\transforms-3\6204709d9748c1f6227b243d13d65738\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\habti\.gradle\caches\transforms-3\555a14cfdc0b97b3ca68117ab169351e\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\95231db8eb7fd36de3c215aba537a5ae\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\d26e6eedfa5c0976fff61f1356d1e247\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\65a1f95dd9635ae701247214b704a845\transformed\lifecycle-runtime-compose-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\4733ce0446285ed883f6c7efd459973f\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\f948908b9c811bf3ba4aa47fb9780f3f\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\f4e5bcd8c9b5b019eb9b77e4c0738751\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\f95ca30cbbbf6295e99c05f0178cc2da\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\80ebc47cc3d094eea2243a3989675555\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\habti\.gradle\caches\transforms-3\e588b63c4a248efff5fb3e285c9e91b3\transformed\room-runtime-2.5.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\habti\.gradle\caches\transforms-3\c2240ba43081bce09de55649d0ac43f5\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\habti\.gradle\caches\transforms-3\2264e5c354c9ef51223287867eba6fb6\transformed\timber-5.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\49dba8c2b06fa0f79f7cf1e07bc73646\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\994f2f22102389f4d774a5b60de366c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\9e1bd4cb62ac433ce98cf7f2662ce8d4\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\8668b5efdbf8f2b9a0978389092ffa33\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\c557e3b41a8175f26e3fa85ea10e3161\transformed\localbroadcastmanager-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [de.cketti.library.changelog:ckchangelog-core:2.0.0-beta02] C:\Users\habti\.gradle\caches\transforms-3\fcfaa13178576ee589cfe23fce81248e\transformed\ckchangelog-core-2.0.0-beta02\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\eb5e6a84e1b9b620cc0c4a7c325c7996\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\habti\.gradle\caches\transforms-3\c99fd504fcc444f471f70c765ed24478\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\habti\.gradle\caches\transforms-3\f492fe42a603081ec883d25153dc23d7\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\95d4f92fee1e4611e3a116795bb8e025\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\8b227393cfd5e597e239fee0358a3ada\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\habti\.gradle\caches\transforms-3\d27d9dad551e04d220f4d31dec2a5b7d\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\4619fa905901f9d5a66b35969da60964\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\f2934d91132bd88be66e1cf79517ea06\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\habti\.gradle\caches\transforms-3\7a6586b069a089d70e1392fda637f8a7\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\habti\.gradle\caches\transforms-3\ce2470ac20d0e3df6d9b8280eb71c0b0\transformed\sqlite-2.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.flexbox:flexbox:3.0.0] C:\Users\habti\.gradle\caches\transforms-3\059d9a4eaffddd1c02835ede4c085ab7\transformed\flexbox-3.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [de.cketti.safecontentresolver:safe-content-resolver-v21:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\5877d28a279759497d42de613234c361\transformed\safe-content-resolver-v21-1.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\habti\.gradle\caches\transforms-3\84b7e5fe6ddccfccd2347ec9e0a80054\transformed\circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:3:5-63
+	android:installLocation
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:5:5-35
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:7:5-9:35
+	android:required
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:8:9-52
+supports-screens
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:11:5-15:38
+	android:largeScreens
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:12:9-34
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:17:5-80
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:25:5-81
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:18:22-69
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:19:5-76
+MERGED from [:app:core] C:\Users\habti\Music\AndroidProjects\k-9\app\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-77
+MERGED from [:app:core] C:\Users\habti\Music\AndroidProjects\k-9\app\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-77
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:19:22-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:21:5-78
+MERGED from [:app:core] C:\Users\habti\Music\AndroidProjects\k-9\app\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [:app:core] C:\Users\habti\Music\AndroidProjects\k-9\app\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:22:5-66
+MERGED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:22:5-67
+MERGED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:23:5-65
+MERGED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-66
+MERGED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:24:5-67
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:23:5-68
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:25:5-76
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:26:5-77
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:25:22-74
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:26:22-76
+application
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:28:5-406:19
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:28:5-406:19
+MERGED from [:app:ui:message-list-widget] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:19
+MERGED from [:app:ui:message-list-widget] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:19
+MERGED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:5-55:19
+MERGED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:5-55:19
+MERGED from [:app:ui:base] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\base\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-18:19
+MERGED from [:app:ui:base] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\base\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-18:19
+MERGED from [:feature:launcher] C:\Users\habti\Music\AndroidProjects\k-9\feature\launcher\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:19
+MERGED from [:feature:launcher] C:\Users\habti\Music\AndroidProjects\k-9\feature\launcher\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:19
+MERGED from [io.insert-koin:koin-android:3.5.0] C:\Users\habti\.gradle\caches\transforms-3\5483685c54209c38b41b0686555eec9b\transformed\koin-android-3.5.0\AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-android:3.5.0] C:\Users\habti\.gradle\caches\transforms-3\5483685c54209c38b41b0686555eec9b\transformed\koin-android-3.5.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\habti\.gradle\caches\transforms-3\3e23e2e7e79bb31b5485504ed76f7874\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\habti\.gradle\caches\transforms-3\3e23e2e7e79bb31b5485504ed76f7874\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\habti\.gradle\caches\transforms-3\017353f5c9c0e8480488451aed90679b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\habti\.gradle\caches\transforms-3\017353f5c9c0e8480488451aed90679b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:34:5-53:19
+MERGED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:34:5-53:19
+MERGED from [com.splitwise:tokenautocomplete:4.0.0-beta01] C:\Users\habti\.gradle\caches\transforms-3\49cb3e91fc4010454273f077326717b6\transformed\tokenautocomplete-4.0.0-beta01\AndroidManifest.xml:11:5-20
+MERGED from [com.splitwise:tokenautocomplete:4.0.0-beta01] C:\Users\habti\.gradle\caches\transforms-3\49cb3e91fc4010454273f077326717b6\transformed\tokenautocomplete-4.0.0-beta01\AndroidManifest.xml:11:5-20
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\fa19f0eef1df9bc053077e8173113a40\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\fa19f0eef1df9bc053077e8173113a40\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\2b031c3eaff4afe96efa4b017303e008\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\2b031c3eaff4afe96efa4b017303e008\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\332c2ea1b084890b7f266df480c1b325\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\332c2ea1b084890b7f266df480c1b325\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\habti\.gradle\caches\transforms-3\10df8bfe2dbee3a771511aae0b1c2640\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\habti\.gradle\caches\transforms-3\10df8bfe2dbee3a771511aae0b1c2640\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\28dfde0a8489956bffa8db7d0b28efdb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\28dfde0a8489956bffa8db7d0b28efdb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\habti\.gradle\caches\transforms-3\e588b63c4a248efff5fb3e285c9e91b3\transformed\room-runtime-2.5.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\habti\.gradle\caches\transforms-3\e588b63c4a248efff5fb3e285c9e91b3\transformed\room-runtime-2.5.0\AndroidManifest.xml:23:5-29:19
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\habti\.gradle\caches\transforms-3\2264e5c354c9ef51223287867eba6fb6\transformed\timber-5.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\habti\.gradle\caches\transforms-3\2264e5c354c9ef51223287867eba6fb6\transformed\timber-5.0.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\994f2f22102389f4d774a5b60de366c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\994f2f22102389f4d774a5b60de366c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [de.cketti.library.changelog:ckchangelog-core:2.0.0-beta02] C:\Users\habti\.gradle\caches\transforms-3\fcfaa13178576ee589cfe23fce81248e\transformed\ckchangelog-core-2.0.0-beta02\AndroidManifest.xml:8:5-20
+MERGED from [de.cketti.library.changelog:ckchangelog-core:2.0.0-beta02] C:\Users\habti\.gradle\caches\transforms-3\fcfaa13178576ee589cfe23fce81248e\transformed\ckchangelog-core-2.0.0-beta02\AndroidManifest.xml:8:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\8b227393cfd5e597e239fee0358a3ada\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\8b227393cfd5e597e239fee0358a3ada\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [de.cketti.safecontentresolver:safe-content-resolver-v21:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\5877d28a279759497d42de613234c361\transformed\safe-content-resolver-v21-1.0.0\AndroidManifest.xml:7:5-20
+MERGED from [de.cketti.safecontentresolver:safe-content-resolver-v21:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\5877d28a279759497d42de613234c361\transformed\safe-content-resolver-v21-1.0.0\AndroidManifest.xml:7:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\habti\.gradle\caches\transforms-3\84b7e5fe6ddccfccd2347ec9e0a80054\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\habti\.gradle\caches\transforms-3\84b7e5fe6ddccfccd2347ec9e0a80054\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+	android:extractNativeLibs
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+	tools:ignore
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:41:9-59
+	android:allowTaskReparenting
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:30:9-45
+	android:icon
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:33:9-45
+	android:networkSecurityConfig
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:32:9-69
+	android:hasFragileUserData
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:39:9-43
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:38:9-35
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:34:9-41
+	android:resizeableActivity
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:36:9-42
+	android:allowBackup
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:37:9-36
+	android:theme
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:35:9-48
+		REJECTED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:9-46
+	android:dataExtractionRules
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:42:9-65
+	tools:replace
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:40:9-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:29:9-39
+meta-data#android.app.default_searchable
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:44:9-46:58
+	android:value
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:45:13-58
+meta-data#com.lge.support.SPLIT_WINDOW
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:49:9-51:35
+	android:value
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:51:13-33
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:50:13-56
+uses-library#com.sec.android.app.multiwindow
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:52:9-54:39
+	android:required
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:53:13-59
+meta-data#com.sec.android.support.multiwindow
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:55:9-57:35
+	android:value
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:57:13-33
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:56:13-63
+meta-data#com.samsung.android.sdk.multiwindow.penwindow.enable
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:58:9-60:35
+	android:value
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:60:13-33
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:59:13-80
+meta-data#android.webkit.WebView.MetricsOptOut
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:61:9-62:36
+	android:value
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:62:13-33
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:61:20-71
+activity#com.fsck.k9.ui.settings.account.OpenPgpAppSelectDialog
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:64:9-68:15
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:66:13-43
+	android:theme
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:67:13-72
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:65:13-71
+activity#com.fsck.k9.activity.setup.AccountSetupAccountType
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:70:9-73:71
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:73:13-69
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:72:13-43
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:71:13-67
+activity#com.fsck.k9.activity.setup.AccountSetupIncoming
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:75:9-78:67
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:78:13-65
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:77:13-43
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:76:13-64
+activity#com.fsck.k9.activity.setup.AccountSetupComposition
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:80:9-83:73
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:83:13-71
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:82:13-43
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:81:13-67
+activity#com.fsck.k9.activity.setup.AccountSetupOutgoing
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:85:9-88:67
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:88:13-65
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:87:13-43
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:86:13-64
+activity#com.fsck.k9.activity.ChooseAccount
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:90:9-94:40
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:93:13-57
+	android:noHistory
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:94:13-37
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:92:13-43
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:91:13-51
+activity#com.fsck.k9.ui.choosefolder.ChooseFolderActivity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:96:9-100:40
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:99:13-56
+	android:noHistory
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:100:13-37
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:98:13-43
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:97:13-65
+activity#com.fsck.k9.activity.ChooseIdentity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:102:9-105:61
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:105:13-58
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:104:13-43
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:103:13-52
+activity#com.fsck.k9.activity.ManageIdentities
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:107:9-110:62
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:110:13-60
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:109:13-43
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:108:13-54
+activity#com.fsck.k9.activity.EditIdentity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:112:9-115:58
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:115:13-56
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:114:13-43
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:113:13-50
+activity#com.fsck.k9.ui.notification.DeleteConfirmationActivity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:117:9-122:74
+	android:excludeFromRecents
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:119:13-46
+	android:launchMode
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:120:13-43
+	android:theme
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:122:13-72
+	android:taskAffinity
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:121:13-36
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:118:13-71
+activity#com.fsck.k9.activity.setup.AccountSetupCheckSettings
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:126:9-129:73
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:129:13-71
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:128:13-70
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:127:13-69
+activity#com.fsck.k9.ui.endtoend.AutocryptKeyTransferActivity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:131:9-135:15
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:134:13-54
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:133:13-43
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:132:13-69
+activity#com.fsck.k9.activity.MessageList
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:137:9-159:20
+	android:launchMode
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:139:13-43
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:140:13-36
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:138:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.APP_EMAIL+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.MULTIWINDOW_LAUNCHER+category:name:android.intent.category.PENWINDOW_LAUNCHER
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:141:13-151:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:142:17-68
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:142:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:144:17-75
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:144:27-73
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:145:17-76
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:145:27-74
+category#android.intent.category.APP_EMAIL
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:146:17-77
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:146:27-75
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:149:17-88
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:149:27-86
+category#android.intent.category.PENWINDOW_LAUNCHER
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:150:17-86
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:150:27-84
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:host:messages+data:scheme:k9mail
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:152:13-158:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:153:17-68
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:153:25-66
+activity#com.fsck.k9.activity.MessageCompose
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:164:9-195:20
+	android:enabled
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:167:13-36
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:168:13-36
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:166:13-43
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:165:13-52
+intent-filter#action:name:android.intent.action.SENDTO+category:name:android.intent.category.DEFAULT+data:scheme:mailto
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:169:13-173:29
+action#android.intent.action.SENDTO
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:170:17-70
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:170:25-68
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:174:13-178:29
+action#android.intent.action.SEND
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:175:17-68
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:175:25-66
+intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:179:13-183:29
+action#android.intent.action.SEND_MULTIPLE
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:180:17-77
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:180:25-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:mailto
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:184:13-190:29
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:189:17-77
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:189:27-75
+intent-filter#action:name:org.autocrypt.PEER_ACTION+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:191:13-194:29
+action#org.autocrypt.PEER_ACTION
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:192:17-67
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:192:25-65
+activity#com.fsck.k9.activity.Search
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:198:9-211:20
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:201:13-50
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:203:13-36
+	android:uiOptions
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:202:13-57
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:200:13-43
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:199:13-44
+intent-filter#action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:204:13-207:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:205:17-70
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:205:25-68
+meta-data#android.app.searchable
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:208:13-210:53
+	android:resource
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:210:17-51
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:209:17-54
+activity#com.fsck.k9.activity.LauncherShortcuts
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:216:9-226:20
+	android:enabled
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:220:13-36
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:219:13-52
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:221:13-36
+	android:configChanges
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:218:13-43
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:217:13-55
+intent-filter#action:name:android.intent.action.CREATE_SHORTCUT+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:222:13-225:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:223:17-79
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:223:25-77
+activity#com.fsck.k9.widget.unread.UnreadWidgetConfigurationActivity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:228:9-234:20
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:230:13-37
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:229:13-76
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:231:13-233:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:232:17-86
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:232:25-84
+activity#com.fsck.k9.activity.UpgradeDatabases
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:236:9-238:62
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:238:13-60
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:237:13-54
+activity#com.fsck.k9.ui.managefolders.ManageFoldersActivity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:240:9-242:54
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:242:13-51
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:241:13-67
+activity#com.fsck.k9.ui.settings.SettingsActivity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:244:9-246:51
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:246:13-48
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:245:13-57
+activity#com.fsck.k9.ui.settings.general.GeneralSettingsActivity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:248:9-250:62
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:250:13-59
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:249:13-72
+activity#com.fsck.k9.ui.settings.account.AccountSettingsActivity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:252:9-254:66
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:254:13-63
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:253:13-72
+activity#com.fsck.k9.ui.messagesource.MessageSourceActivity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:256:9-258:59
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:258:13-56
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:257:13-67
+activity#com.fsck.k9.ui.changelog.RecentChangesActivity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:260:9-262:70
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:262:13-67
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:261:13-63
+activity#com.fsck.k9.activity.setup.OAuthFlowActivity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:276:9-278:66
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:278:13-63
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:277:13-61
+receiver#com.fsck.k9.provider.UnreadWidgetProvider
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:281:9-293:20
+	android:enabled
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:285:13-64
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:284:13-56
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:286:13-37
+	android:icon
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:283:13-49
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:282:13-58
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:287:13-289:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:288:17-83
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:288:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:290:13-292:61
+	android:resource
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:292:17-59
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:291:17-58
+receiver#com.fsck.k9.widget.list.MessageListWidgetProvider
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:296:9-308:20
+	android:enabled
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:300:13-64
+	android:label
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:299:13-58
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:301:13-37
+	android:icon
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:298:13-65
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:297:13-66
+receiver#com.fsck.k9.controller.push.BootCompleteReceiver
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:311:9-318:20
+	android:enabled
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:314:13-36
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:313:13-37
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:312:13-65
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:315:13-317:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:316:17-78
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:316:25-76
+service#com.fsck.k9.notification.NotificationActionService
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:320:9-321:69
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:321:13-67
+service#com.fsck.k9.service.DatabaseUpgradeService
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:323:9-325:39
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:325:13-37
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:324:13-59
+service#com.fsck.k9.controller.push.PushService
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:327:9-330:56
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:329:13-37
+	android:foregroundServiceType
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:330:13-53
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:328:13-56
+activity#net.openid.appauth.RedirectUriReceiverActivity
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:377:9-390:20
+MERGED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:41:9-52:20
+MERGED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:41:9-52:20
+	tools:node
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:380:13-31
+	android:exported
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:379:13-36
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:378:13-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.fsck.k9.debug+data:scheme:msauth
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:381:13-389:29
+intent-filter#action:name:app.k9mail.action.PUSH_INFO+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:270:13-273:29
+action#app.k9mail.action.PUSH_INFO
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:271:17-70
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:271:25-67
+meta-data#de.cketti.safecontentresolver.ALLOW_INTERNAL_ACCESS
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:338:13-340:40
+	android:value
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:340:17-37
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:339:17-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:361:13-363:73
+	android:resource
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:363:17-70
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:362:17-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:399:13-402:39
+REJECTED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:34:13-36:52
+	tools:node
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:402:17-36
+	android:value
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:401:17-49
+	android:name
+		ADDED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml:400:17-68
+uses-sdk
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+MERGED from [:app:ui:message-list-widget] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app:ui:message-list-widget] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app:storage] C:\Users\habti\Music\AndroidProjects\k-9\app\storage\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app:storage] C:\Users\habti\Music\AndroidProjects\k-9\app\storage\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app:crypto-openpgp] C:\Users\habti\Music\AndroidProjects\k-9\app\crypto-openpgp\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app:crypto-openpgp] C:\Users\habti\Music\AndroidProjects\k-9\app\crypto-openpgp\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app:ui:base] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\base\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app:ui:base] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\base\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app:core] C:\Users\habti\Music\AndroidProjects\k-9\app\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app:core] C:\Users\habti\Music\AndroidProjects\k-9\app\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:launcher] C:\Users\habti\Music\AndroidProjects\k-9\feature\launcher\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:launcher] C:\Users\habti\Music\AndroidProjects\k-9\feature\launcher\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:setup] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\setup\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:setup] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\setup\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:edit] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\edit\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:edit] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\edit\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:server:validation] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\server\validation\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:server:validation] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\server\validation\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:oauth] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\oauth\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:oauth] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\oauth\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:server:settings] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\server\settings\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:server:settings] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\server\settings\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:server:certificate] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\server\certificate\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:server:certificate] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\server\certificate\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:common] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\common\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:account:common] C:\Users\habti\Music\AndroidProjects\k-9\feature\account\common\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:ui-utils:ToolbarBottomSheet] C:\Users\habti\Music\AndroidProjects\k-9\ui-utils\ToolbarBottomSheet\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:ui-utils:ToolbarBottomSheet] C:\Users\habti\Music\AndroidProjects\k-9\ui-utils\ToolbarBottomSheet\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:plugins:openpgp-api-lib:openpgp-api] C:\Users\habti\Music\AndroidProjects\k-9\plugins\openpgp-api-lib\openpgp-api\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:plugins:openpgp-api-lib:openpgp-api] C:\Users\habti\Music\AndroidProjects\k-9\plugins\openpgp-api-lib\openpgp-api\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:ui-utils:LinearLayoutManager] C:\Users\habti\Music\AndroidProjects\k-9\ui-utils\LinearLayoutManager\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:ui-utils:LinearLayoutManager] C:\Users\habti\Music\AndroidProjects\k-9\ui-utils\LinearLayoutManager\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:ui-utils:ItemTouchHelper] C:\Users\habti\Music\AndroidProjects\k-9\ui-utils\ItemTouchHelper\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:ui-utils:ItemTouchHelper] C:\Users\habti\Music\AndroidProjects\k-9\ui-utils\ItemTouchHelper\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:core:android:common] C:\Users\habti\Music\AndroidProjects\k-9\core\android\common\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:core:android:common] C:\Users\habti\Music\AndroidProjects\k-9\core\android\common\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:onboarding] C:\Users\habti\Music\AndroidProjects\k-9\feature\onboarding\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:feature:onboarding] C:\Users\habti\Music\AndroidProjects\k-9\feature\onboarding\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:core:ui:compose:designsystem] C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\designsystem\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:core:ui:compose:designsystem] C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\designsystem\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:core:ui:compose:theme] C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\theme\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:core:ui:compose:theme] C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\theme\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:core:ui:compose:common] C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\common\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:core:ui:compose:common] C:\Users\habti\Music\AndroidProjects\k-9\core\ui\compose\common\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-androidx-compose:3.5.0] C:\Users\habti\.gradle\caches\transforms-3\931547e8e3cdeeec26afdd4637d7f692\transformed\koin-androidx-compose-3.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-androidx-compose:3.5.0] C:\Users\habti\.gradle\caches\transforms-3\931547e8e3cdeeec26afdd4637d7f692\transformed\koin-androidx-compose-3.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.5.0] C:\Users\habti\.gradle\caches\transforms-3\5483685c54209c38b41b0686555eec9b\transformed\koin-android-3.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.5.0] C:\Users\habti\.gradle\caches\transforms-3\5483685c54209c38b41b0686555eec9b\transformed\koin-android-3.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:materialdrawer:8.4.5] C:\Users\habti\.gradle\caches\transforms-3\4f0b440b3db56e2dd04b8b5ac681441c\transformed\materialdrawer-8.4.5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:materialdrawer:8.4.5] C:\Users\habti\.gradle\caches\transforms-3\4f0b440b3db56e2dd04b8b5ac681441c\transformed\materialdrawer-8.4.5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-utils:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\735893c774e4550fd2b94c65c2cdd604\transformed\fastadapter-extensions-utils-5.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-utils:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\735893c774e4550fd2b94c65c2cdd604\transformed\fastadapter-extensions-utils-5.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-drag:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\5b8a46daee299ec2b959a0546232330c\transformed\fastadapter-extensions-drag-5.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-drag:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\5b8a46daee299ec2b959a0546232330c\transformed\fastadapter-extensions-drag-5.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.work:work-runtime-ktx:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\fca9d80b74d2fe724d14233941095626\transformed\work-runtime-ktx-2.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\fca9d80b74d2fe724d14233941095626\transformed\work-runtime-ktx-2.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\fefe5e35ce84aa2f3c4ad98e8876fa87\transformed\navigation-common-2.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\fefe5e35ce84aa2f3c4ad98e8876fa87\transformed\navigation-common-2.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\3822885ad5df1d9df7c5a4ed0511b568\transformed\navigation-common-ktx-2.7.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\3822885ad5df1d9df7c5a4ed0511b568\transformed\navigation-common-ktx-2.7.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\fb4b0c7edd1c44a589c0cd39b9d34cf6\transformed\navigation-runtime-2.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\fb4b0c7edd1c44a589c0cd39b9d34cf6\transformed\navigation-runtime-2.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\6edc550cad45b4a5c53236b7b10c8ef0\transformed\navigation-runtime-ktx-2.7.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\6edc550cad45b4a5c53236b7b10c8ef0\transformed\navigation-runtime-ktx-2.7.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\523faf5c6b6010ee872b3dc4fe02e170\transformed\navigation-ui-2.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\523faf5c6b6010ee872b3dc4fe02e170\transformed\navigation-ui-2.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\963dfafe0d5e55511a330d9469419b3b\transformed\navigation-fragment-2.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\963dfafe0d5e55511a330d9469419b3b\transformed\navigation-fragment-2.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\156af77250a7e4bb91f0e3e6701a9e64\transformed\navigation-compose-2.7.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.2] C:\Users\habti\.gradle\caches\transforms-3\156af77250a7e4bb91f0e3e6701a9e64\transformed\navigation-compose-2.7.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\habti\.gradle\caches\transforms-3\3e23e2e7e79bb31b5485504ed76f7874\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\habti\.gradle\caches\transforms-3\3e23e2e7e79bb31b5485504ed76f7874\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\habti\.gradle\caches\transforms-3\017353f5c9c0e8480488451aed90679b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\habti\.gradle\caches\transforms-3\017353f5c9c0e8480488451aed90679b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:18:5-20:41
+MERGED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.takisoft.preferencex:preferencex-datetimepicker:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\a783973531d4c513a016525867e4dddf\transformed\preferencex-datetimepicker-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.preferencex:preferencex-datetimepicker:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\a783973531d4c513a016525867e4dddf\transformed\preferencex-datetimepicker-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.preferencex:preferencex-colorpicker:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\4f63453df71cf7d521759757e02a980f\transformed\preferencex-colorpicker-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.preferencex:preferencex-colorpicker:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\4f63453df71cf7d521759757e02a980f\transformed\preferencex-colorpicker-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.preferencex:preferencex:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\abd4e325bc457157fc6713a63c451c53\transformed\preferencex-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.preferencex:preferencex:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\abd4e325bc457157fc6713a63c451c53\transformed\preferencex-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ByteHamster:SearchPreference:v2.3.0] C:\Users\habti\.gradle\caches\transforms-3\19accb722cc2be06c291771c99cb25ea\transformed\SearchPreference-v2.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ByteHamster:SearchPreference:v2.3.0] C:\Users\habti\.gradle\caches\transforms-3\19accb722cc2be06c291771c99cb25ea\transformed\SearchPreference-v2.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\habti\.gradle\caches\transforms-3\601b5baef962ae224ad15dacbbbe0f17\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\habti\.gradle\caches\transforms-3\601b5baef962ae224ad15dacbbbe0f17\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.splitwise:tokenautocomplete:4.0.0-beta01] C:\Users\habti\.gradle\caches\transforms-3\49cb3e91fc4010454273f077326717b6\transformed\tokenautocomplete-4.0.0-beta01\AndroidManifest.xml:7:5-9:41
+MERGED from [com.splitwise:tokenautocomplete:4.0.0-beta01] C:\Users\habti\.gradle\caches\transforms-3\49cb3e91fc4010454273f077326717b6\transformed\tokenautocomplete-4.0.0-beta01\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\3a2d665c9cfaeb6ca5641a805fae7ec5\transformed\fastadapter-extensions-expandable-5.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\3a2d665c9cfaeb6ca5641a805fae7ec5\transformed\fastadapter-extensions-expandable-5.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-swipe:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\1972f37147e7b59af437a797431188f0\transformed\fastadapter-extensions-swipe-5.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-swipe:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\1972f37147e7b59af437a797431188f0\transformed\fastadapter-extensions-swipe-5.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\48ffa17ebc89741e9b2bd2acd9b65d26\transformed\fastadapter-5.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter:5.7.0] C:\Users\habti\.gradle\caches\transforms-3\48ffa17ebc89741e9b2bd2acd9b65d26\transformed\fastadapter-5.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\habti\.gradle\caches\transforms-3\508b433ee757c1f2f2497dbce10b14a3\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\habti\.gradle\caches\transforms-3\508b433ee757c1f2f2497dbce10b14a3\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\9a9b74b8192e0a23bba87bfe6aff8fe4\transformed\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\9a9b74b8192e0a23bba87bfe6aff8fe4\transformed\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.takisoft.datetimepicker:datetimepicker:1.0.2] C:\Users\habti\.gradle\caches\transforms-3\a982dbd07764408331ab6dddd9fc7d26\transformed\datetimepicker-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.datetimepicker:datetimepicker:1.0.2] C:\Users\habti\.gradle\caches\transforms-3\a982dbd07764408331ab6dddd9fc7d26\transformed\datetimepicker-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.colorpicker:colorpicker:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\01432ad19f90359c25287e180b1a4ee0\transformed\colorpicker-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.takisoft.colorpicker:colorpicker:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\01432ad19f90359c25287e180b1a4ee0\transformed\colorpicker-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\habti\.gradle\caches\transforms-3\239a852cc65cef62b1a8a40e25f2d1ea\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\habti\.gradle\caches\transforms-3\239a852cc65cef62b1a8a40e25f2d1ea\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\habti\.gradle\caches\transforms-3\692607dda051ca5c2ef22d35de78f7ed\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\habti\.gradle\caches\transforms-3\692607dda051ca5c2ef22d35de78f7ed\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\habti\.gradle\caches\transforms-3\97143e8a09827a422f2ad95cd9a07277\transformed\recyclerview-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\habti\.gradle\caches\transforms-3\97143e8a09827a422f2ad95cd9a07277\transformed\recyclerview-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\habti\.gradle\caches\transforms-3\2134799768d46be051e599732f146d79\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\habti\.gradle\caches\transforms-3\2134799768d46be051e599732f146d79\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] C:\Users\habti\.gradle\caches\transforms-3\cd91ed441f582aa688e8b1a47f103a18\transformed\fragment-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] C:\Users\habti\.gradle\caches\transforms-3\cd91ed441f582aa688e8b1a47f103a18\transformed\fragment-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.1] C:\Users\habti\.gradle\caches\transforms-3\69ad6d1bf619ceff74376a11b27d8b43\transformed\fragment-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.1] C:\Users\habti\.gradle\caches\transforms-3\69ad6d1bf619ceff74376a11b27d8b43\transformed\fragment-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.32.0] C:\Users\habti\.gradle\caches\transforms-3\c9f4fa7de8790d77eb63c3c9f60f9d31\transformed\accompanist-systemuicontroller-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.32.0] C:\Users\habti\.gradle\caches\transforms-3\c9f4fa7de8790d77eb63c3c9f60f9d31\transformed\accompanist-systemuicontroller-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\21e9501c30cc435ae05d6b7320ae586d\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\21e9501c30cc435ae05d6b7320ae586d\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\4f120c253cfda08f6543dff65d01846d\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\4f120c253cfda08f6543dff65d01846d\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\8f8761ff2e68ffb96073964c4325330b\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\8f8761ff2e68ffb96073964c4325330b\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\b9956bb6cf2c98f139eb6e8232e10568\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\b9956bb6cf2c98f139eb6e8232e10568\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\80ca469ff6ff5a6e268033db0a581f66\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\80ca469ff6ff5a6e268033db0a581f66\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\177896be780294763331ba94a895c89a\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\177896be780294763331ba94a895c89a\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\8a439666b0790b73d25a2879ddcb5f23\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\8a439666b0790b73d25a2879ddcb5f23\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\e0bea8557e47d56bfab338cc9a2d388e\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\e0bea8557e47d56bfab338cc9a2d388e\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\037d54b13f4bd1ba1633076748521538\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\037d54b13f4bd1ba1633076748521538\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\5a279b41c93fbbe098b8155368ecf0b2\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\5a279b41c93fbbe098b8155368ecf0b2\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\a7f7849d3c3973b76b5a3c209095b3cd\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\a7f7849d3c3973b76b5a3c209095b3cd\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\53a0dfaa7ae8726062349909ebb03309\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\53a0dfaa7ae8726062349909ebb03309\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\aca658e43f143d420989a21541c0f879\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\aca658e43f143d420989a21541c0f879\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\576f2f4f628dad7ad2a25c4e9c14bb1f\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\576f2f4f628dad7ad2a25c4e9c14bb1f\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\ca129994741fee908dd1907244ec4279\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\ca129994741fee908dd1907244ec4279\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\f18b57a2d83a946ca0b0b69900f0730c\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\f18b57a2d83a946ca0b0b69900f0730c\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\fa19f0eef1df9bc053077e8173113a40\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\fa19f0eef1df9bc053077e8173113a40\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\2b031c3eaff4afe96efa4b017303e008\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\2b031c3eaff4afe96efa4b017303e008\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] C:\Users\habti\.gradle\caches\transforms-3\3ba309502fd316ad4bd36a6f22ab2e62\transformed\activity-compose-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] C:\Users\habti\.gradle\caches\transforms-3\3ba309502fd316ad4bd36a6f22ab2e62\transformed\activity-compose-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] C:\Users\habti\.gradle\caches\transforms-3\69ae528a68dd8a796ae966c66db7d32a\transformed\activity-ktx-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] C:\Users\habti\.gradle\caches\transforms-3\69ae528a68dd8a796ae966c66db7d32a\transformed\activity-ktx-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] C:\Users\habti\.gradle\caches\transforms-3\f2f8d531573cc4e6831f9d3419454dcc\transformed\activity-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] C:\Users\habti\.gradle\caches\transforms-3\f2f8d531573cc4e6831f9d3419454dcc\transformed\activity-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\7763cb44007cb7d08b7c5f5051a67f41\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\7763cb44007cb7d08b7c5f5051a67f41\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\ed0f4a3bff497b00d0ac7209fb46b775\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\ed0f4a3bff497b00d0ac7209fb46b775\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\7cf8479d2389367a0bfe4094045650c5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\7cf8479d2389367a0bfe4094045650c5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\11707719a41020c83d312c86b1b09ce6\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\11707719a41020c83d312c86b1b09ce6\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\f2e641c579b53b846d87bd0a32d0bc8f\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\f2e641c579b53b846d87bd0a32d0bc8f\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\44de4a9ab6bec103f6b99b398dc826e2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\44de4a9ab6bec103f6b99b398dc826e2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\habti\.gradle\caches\transforms-3\c14f791af119d18494f0d297943077cd\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\habti\.gradle\caches\transforms-3\c14f791af119d18494f0d297943077cd\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\habti\.gradle\caches\transforms-3\379b08f88fb18309eb9fad2c5b3d536e\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\habti\.gradle\caches\transforms-3\379b08f88fb18309eb9fad2c5b3d536e\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\76db86adee401c0bc7c35871d5072652\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\76db86adee401c0bc7c35871d5072652\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\9267d887d3af36760dc0e1433bebe0d9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\9267d887d3af36760dc0e1433bebe0d9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\da52e2e210387522ffa6da5f534fadd3\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\da52e2e210387522ffa6da5f534fadd3\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\1e6e4f127be776b87c1087f5aaa92a66\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\1e6e4f127be776b87c1087f5aaa92a66\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\habti\.gradle\caches\transforms-3\da7946830e870c9d305de3bf394ae305\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\habti\.gradle\caches\transforms-3\da7946830e870c9d305de3bf394ae305\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\3b946d54ef26b85d7fba8b68b4f4a110\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\3b946d54ef26b85d7fba8b68b4f4a110\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\dd9c55794b1cff8c91a00bdf9ff7bb75\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\dd9c55794b1cff8c91a00bdf9ff7bb75\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\332c2ea1b084890b7f266df480c1b325\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\332c2ea1b084890b7f266df480c1b325\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\habti\.gradle\caches\transforms-3\2b37a183b440f638ae805dd2f5365b39\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\habti\.gradle\caches\transforms-3\2b37a183b440f638ae805dd2f5365b39\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\habti\.gradle\caches\transforms-3\10df8bfe2dbee3a771511aae0b1c2640\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\habti\.gradle\caches\transforms-3\10df8bfe2dbee3a771511aae0b1c2640\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\edbe7453536595773789c5cfc99732a8\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\edbe7453536595773789c5cfc99732a8\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\28dfde0a8489956bffa8db7d0b28efdb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\28dfde0a8489956bffa8db7d0b28efdb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\a239a1bbe64d66d9dc71afe2fde5e3fb\transformed\lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\a239a1bbe64d66d9dc71afe2fde5e3fb\transformed\lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\9f24a5c20a86e00f1c331202d9713f9f\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\9f24a5c20a86e00f1c331202d9713f9f\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\2a8e6cf84087ef1cb45a92f036895a18\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\2a8e6cf84087ef1cb45a92f036895a18\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\126fe7c37302d2a06582d6f97cad080f\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\126fe7c37302d2a06582d6f97cad080f\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\447da74c9604b6d5769f089739912f95\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\447da74c9604b6d5769f089739912f95\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\49c1e04fec517353751ee43e09beb149\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\49c1e04fec517353751ee43e09beb149\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\habti\.gradle\caches\transforms-3\6204709d9748c1f6227b243d13d65738\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\habti\.gradle\caches\transforms-3\6204709d9748c1f6227b243d13d65738\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\habti\.gradle\caches\transforms-3\555a14cfdc0b97b3ca68117ab169351e\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\habti\.gradle\caches\transforms-3\555a14cfdc0b97b3ca68117ab169351e\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\95231db8eb7fd36de3c215aba537a5ae\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\95231db8eb7fd36de3c215aba537a5ae\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\d26e6eedfa5c0976fff61f1356d1e247\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\d26e6eedfa5c0976fff61f1356d1e247\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\65a1f95dd9635ae701247214b704a845\transformed\lifecycle-runtime-compose-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\65a1f95dd9635ae701247214b704a845\transformed\lifecycle-runtime-compose-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\4733ce0446285ed883f6c7efd459973f\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\4733ce0446285ed883f6c7efd459973f\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\f948908b9c811bf3ba4aa47fb9780f3f\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\f948908b9c811bf3ba4aa47fb9780f3f\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\f4e5bcd8c9b5b019eb9b77e4c0738751\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\f4e5bcd8c9b5b019eb9b77e4c0738751\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\f95ca30cbbbf6295e99c05f0178cc2da\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\f95ca30cbbbf6295e99c05f0178cc2da\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\80ebc47cc3d094eea2243a3989675555\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\80ebc47cc3d094eea2243a3989675555\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\habti\.gradle\caches\transforms-3\e588b63c4a248efff5fb3e285c9e91b3\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\habti\.gradle\caches\transforms-3\e588b63c4a248efff5fb3e285c9e91b3\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\habti\.gradle\caches\transforms-3\c2240ba43081bce09de55649d0ac43f5\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\habti\.gradle\caches\transforms-3\c2240ba43081bce09de55649d0ac43f5\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\habti\.gradle\caches\transforms-3\2264e5c354c9ef51223287867eba6fb6\transformed\timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\habti\.gradle\caches\transforms-3\2264e5c354c9ef51223287867eba6fb6\transformed\timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\49dba8c2b06fa0f79f7cf1e07bc73646\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\49dba8c2b06fa0f79f7cf1e07bc73646\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\994f2f22102389f4d774a5b60de366c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\994f2f22102389f4d774a5b60de366c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\9e1bd4cb62ac433ce98cf7f2662ce8d4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\9e1bd4cb62ac433ce98cf7f2662ce8d4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\8668b5efdbf8f2b9a0978389092ffa33\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\8668b5efdbf8f2b9a0978389092ffa33\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\c557e3b41a8175f26e3fa85ea10e3161\transformed\localbroadcastmanager-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\c557e3b41a8175f26e3fa85ea10e3161\transformed\localbroadcastmanager-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [de.cketti.library.changelog:ckchangelog-core:2.0.0-beta02] C:\Users\habti\.gradle\caches\transforms-3\fcfaa13178576ee589cfe23fce81248e\transformed\ckchangelog-core-2.0.0-beta02\AndroidManifest.xml:6:5-44
+MERGED from [de.cketti.library.changelog:ckchangelog-core:2.0.0-beta02] C:\Users\habti\.gradle\caches\transforms-3\fcfaa13178576ee589cfe23fce81248e\transformed\ckchangelog-core-2.0.0-beta02\AndroidManifest.xml:6:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\eb5e6a84e1b9b620cc0c4a7c325c7996\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\eb5e6a84e1b9b620cc0c4a7c325c7996\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\habti\.gradle\caches\transforms-3\c99fd504fcc444f471f70c765ed24478\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\habti\.gradle\caches\transforms-3\c99fd504fcc444f471f70c765ed24478\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\habti\.gradle\caches\transforms-3\f492fe42a603081ec883d25153dc23d7\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\habti\.gradle\caches\transforms-3\f492fe42a603081ec883d25153dc23d7\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\95d4f92fee1e4611e3a116795bb8e025\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\95d4f92fee1e4611e3a116795bb8e025\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\8b227393cfd5e597e239fee0358a3ada\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\habti\.gradle\caches\transforms-3\8b227393cfd5e597e239fee0358a3ada\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\habti\.gradle\caches\transforms-3\d27d9dad551e04d220f4d31dec2a5b7d\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\habti\.gradle\caches\transforms-3\d27d9dad551e04d220f4d31dec2a5b7d\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\4619fa905901f9d5a66b35969da60964\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\4619fa905901f9d5a66b35969da60964\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\f2934d91132bd88be66e1cf79517ea06\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\f2934d91132bd88be66e1cf79517ea06\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\habti\.gradle\caches\transforms-3\7a6586b069a089d70e1392fda637f8a7\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\habti\.gradle\caches\transforms-3\7a6586b069a089d70e1392fda637f8a7\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\habti\.gradle\caches\transforms-3\ce2470ac20d0e3df6d9b8280eb71c0b0\transformed\sqlite-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\habti\.gradle\caches\transforms-3\ce2470ac20d0e3df6d9b8280eb71c0b0\transformed\sqlite-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.flexbox:flexbox:3.0.0] C:\Users\habti\.gradle\caches\transforms-3\059d9a4eaffddd1c02835ede4c085ab7\transformed\flexbox-3.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.flexbox:flexbox:3.0.0] C:\Users\habti\.gradle\caches\transforms-3\059d9a4eaffddd1c02835ede4c085ab7\transformed\flexbox-3.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [de.cketti.safecontentresolver:safe-content-resolver-v21:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\5877d28a279759497d42de613234c361\transformed\safe-content-resolver-v21-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [de.cketti.safecontentresolver:safe-content-resolver-v21:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\5877d28a279759497d42de613234c361\transformed\safe-content-resolver-v21-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\habti\.gradle\caches\transforms-3\84b7e5fe6ddccfccd2347ec9e0a80054\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\habti\.gradle\caches\transforms-3\84b7e5fe6ddccfccd2347ec9e0a80054\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\habti\Music\AndroidProjects\k-9\app\k9mail\src\main\AndroidManifest.xml
+service#app.k9mail.ui.widget.list.MessageListWidgetService
+ADDED from [:app:ui:message-list-widget] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:72
+	android:permission
+		ADDED from [:app:ui:message-list-widget] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-69
+	android:name
+		ADDED from [:app:ui:message-list-widget] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\message-list-widget\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-78
+queries
+ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-49:15
+MERGED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:24:5-32:15
+MERGED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:24:5-32:15
+intent#action:name:android.intent.action.PICK+data:host:com.android.contacts+data:mimeType:*/*+data:scheme:content
+ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-19:18
+action#android.intent.action.PICK
+ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-65
+	android:name
+		ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:21-62
+intent#action:name:android.intent.action.VIEW+data:mimeType:*/*+data:scheme:content
+ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-28:18
+intent#action:name:org.openintents.openpgp.IOpenPgpService2
+ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-33:18
+action#org.openintents.openpgp.IOpenPgpService2
+ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-79
+	android:name
+		ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:21-76
+intent#action:name:android.intent.action.VIEW+data:host:details+data:mimeType:*/*+data:scheme:market
+ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-43:18
+intent#action:name:org.openintents.openpgp.IOpenPgpService
+ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:44:9-48:18
+action#org.openintents.openpgp.IOpenPgpService
+ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-78
+	android:name
+		ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:21-75
+activity#com.fsck.k9.activity.FragmentLauncherActivity
+ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:9-82
+	android:name
+		ADDED from [:app:ui:legacy] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\legacy\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:19-79
+receiver#com.fsck.k9.ui.base.locale.LocaleBroadcastReceiver
+ADDED from [:app:ui:base] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\base\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-17:20
+	android:enabled
+		ADDED from [:app:ui:base] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\base\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-36
+	android:exported
+		ADDED from [:app:ui:base] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\base\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:app:ui:base] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\base\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-78
+intent-filter#action:name:android.intent.action.LOCALE_CHANGED
+ADDED from [:app:ui:base] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\base\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-16:29
+action#android.intent.action.LOCALE_CHANGED
+ADDED from [:app:ui:base] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\base\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-79
+	android:name
+		ADDED from [:app:ui:base] C:\Users\habti\Music\AndroidProjects\k-9\app\ui\base\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:25-76
+activity#app.k9mail.feature.launcher.FeatureLauncherActivity
+ADDED from [:feature:launcher] C:\Users\habti\Music\AndroidProjects\k-9\feature\launcher\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:58
+	android:windowSoftInputMode
+		ADDED from [:feature:launcher] C:\Users\habti\Music\AndroidProjects\k-9\feature\launcher\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-55
+	android:name
+		ADDED from [:feature:launcher] C:\Users\habti\Music\AndroidProjects\k-9\feature\launcher\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-79
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:25:9-31:18
+activity#net.openid.appauth.AuthorizationManagementActivity
+ADDED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:35:9-40:77
+	android:launchMode
+		ADDED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:39:13-44
+	android:exported
+		ADDED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:37:13-115
+	android:theme
+		ADDED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:40:13-74
+	android:name
+		ADDED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:36:13-78
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:${appAuthRedirectScheme}
+ADDED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:44:13-51:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.fsck.k9.debug
+ADDED from [net.openid:appauth:0.11.1] C:\Users\habti\.gradle\caches\transforms-3\3df8c3c8c48b8c83e98aa9598dabbacb\transformed\appauth-0.11.1\AndroidManifest.xml:44:13-51:29
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [androidx.biometric:biometric:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\9a9b74b8192e0a23bba87bfe6aff8fe4\transformed\biometric-1.1.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\9a9b74b8192e0a23bba87bfe6aff8fe4\transformed\biometric-1.1.0\AndroidManifest.xml:24:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [androidx.biometric:biometric:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\9a9b74b8192e0a23bba87bfe6aff8fe4\transformed\biometric-1.1.0\AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] C:\Users\habti\.gradle\caches\transforms-3\9a9b74b8192e0a23bba87bfe6aff8fe4\transformed\biometric-1.1.0\AndroidManifest.xml:27:22-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\fa19f0eef1df9bc053077e8173113a40\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\fa19f0eef1df9bc053077e8173113a40\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\fa19f0eef1df9bc053077e8173113a40\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\2b031c3eaff4afe96efa4b017303e008\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\2b031c3eaff4afe96efa4b017303e008\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\habti\.gradle\caches\transforms-3\2b031c3eaff4afe96efa4b017303e008\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:45:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:49:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:51:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:47:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:56:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:54:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.1] C:\Users\habti\.gradle\caches\transforms-3\33e8bfc9a71fbd4d43419edb4a3390ba\transformed\work-runtime-2.8.1\AndroidManifest.xml:140:25-85
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\332c2ea1b084890b7f266df480c1b325\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\332c2ea1b084890b7f266df480c1b325\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\332c2ea1b084890b7f266df480c1b325\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\332c2ea1b084890b7f266df480c1b325\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\332c2ea1b084890b7f266df480c1b325\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\habti\.gradle\caches\transforms-3\332c2ea1b084890b7f266df480c1b325\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\habti\.gradle\caches\transforms-3\10df8bfe2dbee3a771511aae0b1c2640\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\habti\.gradle\caches\transforms-3\10df8bfe2dbee3a771511aae0b1c2640\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\habti\.gradle\caches\transforms-3\10df8bfe2dbee3a771511aae0b1c2640\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.fsck.k9.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.fsck.k9.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\28dfde0a8489956bffa8db7d0b28efdb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\28dfde0a8489956bffa8db7d0b28efdb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\habti\.gradle\caches\transforms-3\28dfde0a8489956bffa8db7d0b28efdb\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\habti\.gradle\caches\transforms-3\e588b63c4a248efff5fb3e285c9e91b3\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\habti\.gradle\caches\transforms-3\e588b63c4a248efff5fb3e285c9e91b3\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\habti\.gradle\caches\transforms-3\e588b63c4a248efff5fb3e285c9e91b3\transformed\room-runtime-2.5.0\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\habti\.gradle\caches\transforms-3\e588b63c4a248efff5fb3e285c9e91b3\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\habti\.gradle\caches\transforms-3\e588b63c4a248efff5fb3e285c9e91b3\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

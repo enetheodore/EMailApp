@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+id container
+id coordinator
+id design_bottom_sheet
+id toolbar
+id touch_outside
+layout design_bottom_sheet_dialog

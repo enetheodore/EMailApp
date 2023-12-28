@@ -1,0 +1,2 @@
+int drawable core_ui_theme_k9_logo 0x0
+int drawable core_ui_theme_thunderbird_logo 0x0

@@ -1,0 +1,71 @@
+app.k9mail.ui.catalog.app-ui-catalog-constraintlayout-2.1.4-0 C:\Users\habti\.gradle\caches\transforms-3\017353f5c9c0e8480488451aed90679b\transformed\constraintlayout-2.1.4\res
+app.k9mail.ui.catalog.app-ui-catalog-ui-unit-release-1 C:\Users\habti\.gradle\caches\transforms-3\037d54b13f4bd1ba1633076748521538\transformed\ui-unit-release\res
+app.k9mail.ui.catalog.app-ui-catalog-emoji2-1.4.0-2 C:\Users\habti\.gradle\caches\transforms-3\10df8bfe2dbee3a771511aae0b1c2640\transformed\emoji2-1.4.0\res
+app.k9mail.ui.catalog.app-ui-catalog-customview-poolingcontainer-1.0.0-3 C:\Users\habti\.gradle\caches\transforms-3\11707719a41020c83d312c86b1b09ce6\transformed\customview-poolingcontainer-1.0.0\res
+app.k9mail.ui.catalog.app-ui-catalog-lifecycle-livedata-core-2.6.2-4 C:\Users\habti\.gradle\caches\transforms-3\126fe7c37302d2a06582d6f97cad080f\transformed\lifecycle-livedata-core-2.6.2\res
+app.k9mail.ui.catalog.app-ui-catalog-navigation-compose-2.7.2-5 C:\Users\habti\.gradle\caches\transforms-3\156af77250a7e4bb91f0e3e6701a9e64\transformed\navigation-compose-2.7.2\res
+app.k9mail.ui.catalog.app-ui-catalog-animation-release-6 C:\Users\habti\.gradle\caches\transforms-3\177896be780294763331ba94a895c89a\transformed\animation-release\res
+app.k9mail.ui.catalog.app-ui-catalog-viewpager2-1.1.0-beta02-7 C:\Users\habti\.gradle\caches\transforms-3\2134799768d46be051e599732f146d79\transformed\viewpager2-1.1.0-beta02\res
+app.k9mail.ui.catalog.app-ui-catalog-material-ripple-release-8 C:\Users\habti\.gradle\caches\transforms-3\21e9501c30cc435ae05d6b7320ae586d\transformed\material-ripple-release\res
+app.k9mail.ui.catalog.app-ui-catalog-appcompat-1.6.1-9 C:\Users\habti\.gradle\caches\transforms-3\239a852cc65cef62b1a8a40e25f2d1ea\transformed\appcompat-1.6.1\res
+app.k9mail.ui.catalog.app-ui-catalog-lifecycle-process-2.6.2-10 C:\Users\habti\.gradle\caches\transforms-3\28dfde0a8489956bffa8db7d0b28efdb\transformed\lifecycle-process-2.6.2\res
+app.k9mail.ui.catalog.app-ui-catalog-lifecycle-livedata-2.6.2-11 C:\Users\habti\.gradle\caches\transforms-3\2a8e6cf84087ef1cb45a92f036895a18\transformed\lifecycle-livedata-2.6.2\res
+app.k9mail.ui.catalog.app-ui-catalog-ui-tooling-release-12 C:\Users\habti\.gradle\caches\transforms-3\2b031c3eaff4afe96efa4b017303e008\transformed\ui-tooling-release\res
+app.k9mail.ui.catalog.app-ui-catalog-emoji2-views-helper-1.4.0-13 C:\Users\habti\.gradle\caches\transforms-3\2b37a183b440f638ae805dd2f5365b39\transformed\emoji2-views-helper-1.4.0\res
+app.k9mail.ui.catalog.app-ui-catalog-transition-1.4.1-14 C:\Users\habti\.gradle\caches\transforms-3\379b08f88fb18309eb9fad2c5b3d536e\transformed\transition-1.4.1\res
+app.k9mail.ui.catalog.app-ui-catalog-navigation-common-ktx-2.7.2-15 C:\Users\habti\.gradle\caches\transforms-3\3822885ad5df1d9df7c5a4ed0511b568\transformed\navigation-common-ktx-2.7.2\res
+app.k9mail.ui.catalog.app-ui-catalog-activity-compose-1.7.2-16 C:\Users\habti\.gradle\caches\transforms-3\3ba309502fd316ad4bd36a6f22ab2e62\transformed\activity-compose-1.7.2\res
+app.k9mail.ui.catalog.app-ui-catalog-material-1.9.0-17 C:\Users\habti\.gradle\caches\transforms-3\3e23e2e7e79bb31b5485504ed76f7874\transformed\material-1.9.0\res
+app.k9mail.ui.catalog.app-ui-catalog-lifecycle-runtime-2.6.2-18 C:\Users\habti\.gradle\caches\transforms-3\447da74c9604b6d5769f089739912f95\transformed\lifecycle-runtime-2.6.2\res
+app.k9mail.ui.catalog.app-ui-catalog-drawerlayout-1.1.1-19 C:\Users\habti\.gradle\caches\transforms-3\44de4a9ab6bec103f6b99b398dc826e2\transformed\drawerlayout-1.1.1\res
+app.k9mail.ui.catalog.app-ui-catalog-lifecycle-viewmodel-savedstate-2.6.2-20 C:\Users\habti\.gradle\caches\transforms-3\49c1e04fec517353751ee43e09beb149\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+app.k9mail.ui.catalog.app-ui-catalog-annotation-experimental-1.3.0-21 C:\Users\habti\.gradle\caches\transforms-3\49dba8c2b06fa0f79f7cf1e07bc73646\transformed\annotation-experimental-1.3.0\res
+app.k9mail.ui.catalog.app-ui-catalog-material-icons-core-release-22 C:\Users\habti\.gradle\caches\transforms-3\4f120c253cfda08f6543dff65d01846d\transformed\material-icons-core-release\res
+app.k9mail.ui.catalog.app-ui-catalog-appcompat-resources-1.6.1-23 C:\Users\habti\.gradle\caches\transforms-3\508b433ee757c1f2f2497dbce10b14a3\transformed\appcompat-resources-1.6.1\res
+app.k9mail.ui.catalog.app-ui-catalog-ui-tooling-data-release-24 C:\Users\habti\.gradle\caches\transforms-3\53a0dfaa7ae8726062349909ebb03309\transformed\ui-tooling-data-release\res
+app.k9mail.ui.catalog.app-ui-catalog-savedstate-1.2.1-25 C:\Users\habti\.gradle\caches\transforms-3\555a14cfdc0b97b3ca68117ab169351e\transformed\savedstate-1.2.1\res
+app.k9mail.ui.catalog.app-ui-catalog-ui-text-release-26 C:\Users\habti\.gradle\caches\transforms-3\576f2f4f628dad7ad2a25c4e9c14bb1f\transformed\ui-text-release\res
+app.k9mail.ui.catalog.app-ui-catalog-ui-graphics-release-27 C:\Users\habti\.gradle\caches\transforms-3\5a279b41c93fbbe098b8155368ecf0b2\transformed\ui-graphics-release\res
+app.k9mail.ui.catalog.app-ui-catalog-savedstate-ktx-1.2.1-28 C:\Users\habti\.gradle\caches\transforms-3\6204709d9748c1f6227b243d13d65738\transformed\savedstate-ktx-1.2.1\res
+app.k9mail.ui.catalog.app-ui-catalog-lifecycle-runtime-compose-2.6.2-29 C:\Users\habti\.gradle\caches\transforms-3\65a1f95dd9635ae701247214b704a845\transformed\lifecycle-runtime-compose-2.6.2\res
+app.k9mail.ui.catalog.app-ui-catalog-profileinstaller-1.3.0-30 C:\Users\habti\.gradle\caches\transforms-3\6767ad0802116c8afc782b1f927a7b7b\transformed\profileinstaller-1.3.0\res
+app.k9mail.ui.catalog.app-ui-catalog-fragment-1.6.1-31 C:\Users\habti\.gradle\caches\transforms-3\69ad6d1bf619ceff74376a11b27d8b43\transformed\fragment-1.6.1\res
+app.k9mail.ui.catalog.app-ui-catalog-activity-ktx-1.7.2-32 C:\Users\habti\.gradle\caches\transforms-3\69ae528a68dd8a796ae966c66db7d32a\transformed\activity-ktx-1.7.2\res
+app.k9mail.ui.catalog.app-ui-catalog-navigation-runtime-ktx-2.7.2-33 C:\Users\habti\.gradle\caches\transforms-3\6edc550cad45b4a5c53236b7b10c8ef0\transformed\navigation-runtime-ktx-2.7.2\res
+app.k9mail.ui.catalog.app-ui-catalog-core-runtime-2.2.0-34 C:\Users\habti\.gradle\caches\transforms-3\7a6586b069a089d70e1392fda637f8a7\transformed\core-runtime-2.2.0\res
+app.k9mail.ui.catalog.app-ui-catalog-animation-core-release-35 C:\Users\habti\.gradle\caches\transforms-3\80ca469ff6ff5a6e268033db0a581f66\transformed\animation-core-release\res
+app.k9mail.ui.catalog.app-ui-catalog-runtime-release-36 C:\Users\habti\.gradle\caches\transforms-3\80ebc47cc3d094eea2243a3989675555\transformed\runtime-release\res
+app.k9mail.ui.catalog.app-ui-catalog-cardview-1.0.0-37 C:\Users\habti\.gradle\caches\transforms-3\8668b5efdbf8f2b9a0978389092ffa33\transformed\cardview-1.0.0\res
+app.k9mail.ui.catalog.app-ui-catalog-foundation-layout-release-38 C:\Users\habti\.gradle\caches\transforms-3\8a439666b0790b73d25a2879ddcb5f23\transformed\foundation-layout-release\res
+app.k9mail.ui.catalog.app-ui-catalog-core-1.12.0-39 C:\Users\habti\.gradle\caches\transforms-3\8c9fa08b745ad40e33721d6a5e80d46c\transformed\core-1.12.0\res
+app.k9mail.ui.catalog.app-ui-catalog-material-icons-extended-release-40 C:\Users\habti\.gradle\caches\transforms-3\8f8761ff2e68ffb96073964c4325330b\transformed\material-icons-extended-release\res
+app.k9mail.ui.catalog.app-ui-catalog-lifecycle-viewmodel-2.6.2-41 C:\Users\habti\.gradle\caches\transforms-3\95231db8eb7fd36de3c215aba537a5ae\transformed\lifecycle-viewmodel-2.6.2\res
+app.k9mail.ui.catalog.app-ui-catalog-recyclerview-1.3.1-42 C:\Users\habti\.gradle\caches\transforms-3\97143e8a09827a422f2ad95cd9a07277\transformed\recyclerview-1.3.1\res
+app.k9mail.ui.catalog.app-ui-catalog-startup-runtime-1.1.1-43 C:\Users\habti\.gradle\caches\transforms-3\994f2f22102389f4d774a5b60de366c0\transformed\startup-runtime-1.1.1\res
+app.k9mail.ui.catalog.app-ui-catalog-coordinatorlayout-1.1.0-44 C:\Users\habti\.gradle\caches\transforms-3\9a8eaa90c5a55f71e7dfbb118fb5c3ab\transformed\coordinatorlayout-1.1.0\res
+app.k9mail.ui.catalog.app-ui-catalog-lifecycle-livedata-core-ktx-2.6.2-45 C:\Users\habti\.gradle\caches\transforms-3\9f24a5c20a86e00f1c331202d9713f9f\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+app.k9mail.ui.catalog.app-ui-catalog-ui-geometry-release-46 C:\Users\habti\.gradle\caches\transforms-3\a7f7849d3c3973b76b5a3c209095b3cd\transformed\ui-geometry-release\res
+app.k9mail.ui.catalog.app-ui-catalog-ui-util-release-47 C:\Users\habti\.gradle\caches\transforms-3\aca658e43f143d420989a21541c0f879\transformed\ui-util-release\res
+app.k9mail.ui.catalog.app-ui-catalog-material-release-48 C:\Users\habti\.gradle\caches\transforms-3\b9956bb6cf2c98f139eb6e8232e10568\transformed\material-release\res
+app.k9mail.ui.catalog.app-ui-catalog-core-splashscreen-1.0.1-49 C:\Users\habti\.gradle\caches\transforms-3\c2240ba43081bce09de55649d0ac43f5\transformed\core-splashscreen-1.0.1\res
+app.k9mail.ui.catalog.app-ui-catalog-ui-release-50 C:\Users\habti\.gradle\caches\transforms-3\ca129994741fee908dd1907244ec4279\transformed\ui-release\res
+app.k9mail.ui.catalog.app-ui-catalog-fragment-ktx-1.6.1-51 C:\Users\habti\.gradle\caches\transforms-3\cd91ed441f582aa688e8b1a47f103a18\transformed\fragment-ktx-1.6.1\res
+app.k9mail.ui.catalog.app-ui-catalog-lifecycle-viewmodel-compose-2.6.2-52 C:\Users\habti\.gradle\caches\transforms-3\d26e6eedfa5c0976fff61f1356d1e247\transformed\lifecycle-viewmodel-compose-2.6.2\res
+app.k9mail.ui.catalog.app-ui-catalog-foundation-release-53 C:\Users\habti\.gradle\caches\transforms-3\e0bea8557e47d56bfab338cc9a2d388e\transformed\foundation-release\res
+app.k9mail.ui.catalog.app-ui-catalog-ui-tooling-preview-release-54 C:\Users\habti\.gradle\caches\transforms-3\f18b57a2d83a946ca0b0b69900f0730c\transformed\ui-tooling-preview-release\res
+app.k9mail.ui.catalog.app-ui-catalog-core-ktx-1.12.0-55 C:\Users\habti\.gradle\caches\transforms-3\f2e641c579b53b846d87bd0a32d0bc8f\transformed\core-ktx-1.12.0\res
+app.k9mail.ui.catalog.app-ui-catalog-activity-1.7.2-56 C:\Users\habti\.gradle\caches\transforms-3\f2f8d531573cc4e6831f9d3419454dcc\transformed\activity-1.7.2\res
+app.k9mail.ui.catalog.app-ui-catalog-lifecycle-runtime-ktx-2.6.2-57 C:\Users\habti\.gradle\caches\transforms-3\f4e5bcd8c9b5b019eb9b77e4c0738751\transformed\lifecycle-runtime-ktx-2.6.2\res
+app.k9mail.ui.catalog.app-ui-catalog-lifecycle-viewmodel-ktx-2.6.2-58 C:\Users\habti\.gradle\caches\transforms-3\f948908b9c811bf3ba4aa47fb9780f3f\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+app.k9mail.ui.catalog.app-ui-catalog-runtime-saveable-release-59 C:\Users\habti\.gradle\caches\transforms-3\f95ca30cbbbf6295e99c05f0178cc2da\transformed\runtime-saveable-release\res
+app.k9mail.ui.catalog.app-ui-catalog-ui-test-manifest-1.5.1-60 C:\Users\habti\.gradle\caches\transforms-3\fa19f0eef1df9bc053077e8173113a40\transformed\ui-test-manifest-1.5.1\res
+app.k9mail.ui.catalog.app-ui-catalog-navigation-runtime-2.7.2-61 C:\Users\habti\.gradle\caches\transforms-3\fb4b0c7edd1c44a589c0cd39b9d34cf6\transformed\navigation-runtime-2.7.2\res
+app.k9mail.ui.catalog.app-ui-catalog-navigation-common-2.7.2-62 C:\Users\habti\.gradle\caches\transforms-3\fefe5e35ce84aa2f3c4ad98e8876fa87\transformed\navigation-common-2.7.2\res
+app.k9mail.ui.catalog.app-ui-catalog-packageDebugResources-63 C:\Users\habti\Music\AndroidProjects\Erga Mail\app-ui-catalog\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+app.k9mail.ui.catalog.app-ui-catalog-packageDebugResources-64 C:\Users\habti\Music\AndroidProjects\Erga Mail\app-ui-catalog\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+app.k9mail.ui.catalog.app-ui-catalog-merged_res-65 C:\Users\habti\Music\AndroidProjects\Erga Mail\app-ui-catalog\build\intermediates\merged_res\debug
+app.k9mail.ui.catalog.app-ui-catalog-debug-66 C:\Users\habti\Music\AndroidProjects\Erga Mail\app-ui-catalog\src\debug\res
+app.k9mail.ui.catalog.app-ui-catalog-main-67 C:\Users\habti\Music\AndroidProjects\Erga Mail\app-ui-catalog\src\main\res
+app.k9mail.ui.catalog.app-ui-catalog-packaged_res-68 C:\Users\habti\Music\AndroidProjects\Erga Mail\core\ui\compose\common\build\intermediates\packaged_res\debug
+app.k9mail.ui.catalog.app-ui-catalog-packaged_res-69 C:\Users\habti\Music\AndroidProjects\Erga Mail\core\ui\compose\designsystem\build\intermediates\packaged_res\debug
+app.k9mail.ui.catalog.app-ui-catalog-packaged_res-70 C:\Users\habti\Music\AndroidProjects\Erga Mail\core\ui\compose\theme\build\intermediates\packaged_res\debug
